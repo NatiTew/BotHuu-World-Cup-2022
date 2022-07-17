@@ -8,6 +8,7 @@ import numpy as np
 import random
 import discord
 import collections
+import time
 from os import system
 from itertools import repeat
 from time import sleep
@@ -28,8 +29,17 @@ listC2 = []
 
 client = commands.Bot(command_prefix='+')
 
-valueArr = random.sample(range(300), 300)
-np.random.shuffle(valueArr)
+chKeyPub = False
+keys = db.keys()
+for row in keys:
+  if row == "supply":
+    chKeyPub = True
+
+pubNum = 1
+if chKeyPub == True:
+  pubNum = db["supply"]
+valueArr = random.sample(range(pubNum), pubNum)
+
 
 @client.event
 async def on_ready():
@@ -370,6 +380,8 @@ async def สร้าง(ctx, name:str, num:int):
     db["supply"] = num
     db["create"] = True
     valueArr = random.sample(range(num), num)
+    np.random.shuffle(valueArr)
+    db["valueArr"] = valueArr
     await ctx.send(name + ' Gacha กำลังเริ่ม มีของทั้งหมด ' + str(num) + 'รายการ')
   else:
     await ctx.send(' Gacha ถูกสร้างไปแล้ว')
@@ -382,21 +394,29 @@ async def เพิ่ม(ctx, name:str, num:int, linkUrl:str):
     if chData("item") == False:
       db["item"] = []
       db["pic"] = []
+      db["emo"] = []
       
     t = db['item']
+    countArr = [item for item, count in collections.Counter(t).items() if count > 0]
+    print(len(countArr))
+    ch = chr(ord('a') + len(countArr))
     url = db['pic']
     supply = db["supply"]
+    emo = db["emo"]
+    chEmo = ":regional_indicator_"+ch+":"
     if (len(t)+num) <= supply :
       t.extend(repeat(name,num))
       url.extend(repeat(linkUrl,num))
+      emo.extend(repeat(chEmo,num))
       db['item'] = t
       db["pic"] = url
+      db["emo"] = emo
       # for arr in range(num):
       #   t = db['item']
         # t.append(name)
         # db['item'] = t
         # print(name)
-      await ctx.send('เพิ่ม ' + name + ' ลงในGacha จำนวน ' +  str(num) + ' ชิ้น\n'
+      await ctx.send(chEmo + ' เพิ่ม ' + name + ' ลงในGacha จำนวน ' +  str(num) + ' ชิ้น\n'
                      'ตอนนี้เหลือพื้นที่ '+ str(supply - len(t)))
     else:
       await ctx.send(' Gacha ใส่ไม่พอ พื้นที่เหลือ ' + str(supply - len(t)))
@@ -409,6 +429,7 @@ async def ล้าง(ctx):
   user_id = str(ctx.author)
   db["item"] = []
   db["pic"] = []
+  db["emo"] = []
   db["name"] = ''
   db["supply"] = 0
   db["create"] = False
@@ -418,20 +439,19 @@ async def ล้าง(ctx):
 async def สลับ(ctx):
   global valueArr
   await ctx.send('ช้านิดนึงนะ พอดีเซิฟเวอร์ของฟรี')
+  tmp = db["valueArr"]
+  for arr in range(len(tmp)):
+    valueArr[arr] = tmp[arr]
   np.random.shuffle(valueArr)
-  # t = db["item"]
-  # arr1 = t
-  # i = 0
-  # while i<len(t):
-  #   arr1[i] = t[i]
-  #   i += 1
-  # np.random.shuffle(arr1)
-  print(valueArr)
+  # print(valueArr)
+  db["valueArr"] = valueArr
   # db["item"] = t
+  print('สลับที่เรียบร้อย')
   await ctx.send('สลับที่เรียบร้อย')
 
 @client.command()
 async def เปิด(ctx):
+  global valueArr
   status = db["create"]
   if status == True:
     name = db["name"]
@@ -454,12 +474,13 @@ async def ปิด(ctx):
 
 @client.command()
 async def โชค(ctx):
-  global value
+  global valueArr
   statusLotto = db["statusLotto"]
   if statusLotto == True:
     t = db["item"]
     pic = db["pic"]
-    value = random.sample(range(len(t)), len(t))
+    emo = db["emo"]
+    # valueArr = random.sample(range(len(t)), len(t))
     # print(t)
     if len(t) > 0:
       user_id = str(ctx.author)
@@ -478,19 +499,37 @@ async def โชค(ctx):
         print(sPlayer)
         if valueGacha[2] > 0:
           x = random.randint(0,len(t)-1)
-          tmp = value[x]
+          valueArr = db["valueArr"]
+          tmp = valueArr[x]
           print(str(x))
           print(str(len(t)))
-          print(str(len(value)))
+          print(str(len(valueArr)))
           print(str(tmp))
-          await ctx.send(user_id + ' ได้รับ ||' + t[tmp] +'|| \nเหลือของในlotto อีก ' + str(len(t)-1))
-          await ctx.send('|| '+pic[tmp]+' ||')
-          print('||' + user_id + ' ได้รับ ' + t[tmp] +'||')
-          t.pop(tmp)
-          pic.pop(tmp)
-          db["item"] = t
-          db["pic"] = pic
-          value = random.sample(range(len(t)), len(t))
+          await ctx.send(" :white_large_square: "+":white_large_square: "+':arrow_down_small: '+":white_large_square: "+":white_large_square: ")
+          message1 = await ctx.send("Loading:")
+          numran = random.randint(10,15)
+          for i in range(numran):
+            # print(i)
+            time.sleep(0.5)
+            await message1.edit(content="\r " + emo[valueArr[(x+i-2) % len(valueArr)]] + " " + emo[valueArr[(x+i-1) % len(valueArr)]] + " " + emo[valueArr[(x+i) % len(valueArr)]] + " " + emo[valueArr[(x+i+1) % len(valueArr)]] + " " + emo[valueArr[(x+i+2) % len(valueArr)]])
+            if i == (numran-1):
+              await ctx.send(user_id + ' ได้รับ ||' + t[valueArr[(x+i) % len(valueArr)]] +'|| \nเหลือของในlotto อีก ' + str(len(t)-1))
+              if pic[valueArr[(x+i) % len(valueArr)]] != "no":
+                await ctx.send('|| '+pic[valueArr[(x+i) % len(valueArr)]]+' ||')
+              print('||' + user_id + ' ได้รับ ' + t[valueArr[(x+i) % len(valueArr)]] +'||')
+              t.pop(valueArr[(x+i) % len(valueArr)])
+              pic.pop(valueArr[(x+i) % len(valueArr)])
+              emo.pop(valueArr[(x+i) % len(valueArr)])
+              # valueArr.pop((x+i) % len(valueArr))
+              
+              db["item"] = t
+              db["pic"] = pic
+              db["emo"] = emo
+              valueArr = random.sample(range(len(t)), len(t))
+              db["valueArr"] = valueArr
+              valueGacha[2] = valueGacha[2] - 1
+              db[sPlayer] = valueGacha
+              # value = random.sample(range(len(t)), len(t))
         else:
           await ctx.channel.send('ตั๋วของคุณไม่พอ')
       else:
@@ -506,7 +545,9 @@ async def โชค(ctx):
 async def แสดง(ctx):
   name = db["name"]
   t = db["item"]
-  arr = [item for item, count in collections.Counter(t).items() if count > 1]
+  emo = db["emo"]
+  
+  arr = [item for item, count in collections.Counter(t).items() if count > 0]
   num = 0
   text = ''
   await ctx.send(name)
