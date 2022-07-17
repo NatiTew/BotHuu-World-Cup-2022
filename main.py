@@ -60,7 +60,7 @@ async def info(ctx):
                   "(ทุกคนสามารถใช้ได้ทุกคน)\n\n"
                   "+show   → เช็ค point ตัวเอง\n"
                   "+s <@name>   → เช็ค point คนอื่น\n"
-                  "+douby   → เปิด LeaderBoard 25 อันดับแรก\n\n"
+                  "+salt   → เปิด LeaderBoard 25 อันดับแรก\n\n"
                   "+gacha   → เปิด LeaderBoard 25 อันดับแรก\n\n"
                   "❈────────•✦•❅•✦•────────❈\n")
 
@@ -144,7 +144,7 @@ async def add1(ctx, player: discord.Member, input: int):
     # print(arr[0])
     db[sPlayer] = arr
   # print('<@'+ sPlayer +'> add '+ str(input) +'♚DouCoin')
-  await ctx.channel.send('<@'+ sPlayer +'> add '+ str(input) +'♚DouCoin')
+  await ctx.channel.send('<@'+ sPlayer +'> add '+ str(input) +'♚Salt')
 
 
 @add1.error
@@ -175,7 +175,7 @@ async def add2(ctx, player: discord.Member, input: int):
     arr = ['player',0,0]
     arr[2] = input
     db[sPlayer] = arr
-  await ctx.channel.send('<@'+ sPlayer +'> add '+ str(input) +'🎮lotto')
+  await ctx.channel.send('<@'+ sPlayer +'> add '+ str(input) +'🎮Lotto')
 
 
 @add2.error
@@ -206,7 +206,7 @@ async def cut1(ctx, player: discord.Member, input: int):
     else:
       db[sPlayer] = value
       db[np] = nPlayer
-      await ctx.channel.send('<@'+ sPlayer +'> del '+ str(input) +'♚DouCoin')
+      await ctx.channel.send('<@'+ sPlayer +'> del '+ str(input) +'♚Salt')
   else:
     await ctx.channel.send('<@'+ sPlayer +'> Not Found')
 
@@ -237,7 +237,7 @@ async def cut2(ctx, player: discord.Member, input: int):
     else:
       db[sPlayer] = value
       db[np] = nPlayer
-      await ctx.channel.send('<@'+ sPlayer +'> del '+ str(input) +'🎮lotto')
+      await ctx.channel.send('<@'+ sPlayer +'> del '+ str(input) +'🎮Lotto')
   else:
     await ctx.channel.send('<@'+ sPlayer +'> Not Found')
 
@@ -262,7 +262,7 @@ async def show(ctx):
     value = db[sPlayer]
     db[np] = nPlayer
     print(sPlayer)
-    await ctx.channel.send('<@'+ sPlayer +'> have '+ str(value[1]) +' ♚DouCoin, '+ str(value[2]) +' 🎮lotto')
+    await ctx.channel.send('<@'+ sPlayer +'> have '+ str(value[1]) +' ♚Salt, '+ str(value[2]) +' 🎮Lotto')
   else:
     await ctx.channel.send('Not Found')
    
@@ -280,12 +280,12 @@ async def s(ctx, player: discord.Member):
   if check == True:
     value = db[sPlayer]
     db[np] = nPlayer
-    await ctx.channel.send(nPlayer +' have '+ str(value[1]) +' ♚DouCoin ,'+ str(value[2]) +' 🎮lotto')
+    await ctx.channel.send(nPlayer +' have '+ str(value[1]) +' ♚Salt ,'+ str(value[2]) +' 🎮Lotto')
   else:
     await ctx.channel.send('Not Found')
 
 @client.command()
-async def douby(ctx):
+async def salt(ctx):
   async for message in ctx.channel.history(limit=1):
     await message.delete()
   cal_board1()
@@ -295,7 +295,7 @@ async def douby(ctx):
   while num < len(listC1):
     value = db[listC1[num]]
     nameDis = str(listC1[num])
-    embed.add_field(name=str(value[1]) + ' DouCoin' , value=f"{'<@'+nameDis+'>'}")
+    embed.add_field(name=str(value[1]) + ' Salt' , value=f"{'<@'+nameDis+'>'}")
     num += 1
   await ctx.send(embed=embed)
 
@@ -314,40 +314,40 @@ async def gacha(ctx):
     num += 1
   await ctx.send(embed=embed)
 
-@client.command()
-async def b(ctx):
-  await ctx.channel.send('ขอเวลาบอทคิดแปปนึง')
-  cal_board1()
-  #print(listC)
-  output = " ----------<Leader Board>---------- \n"
-  output = output + " ถ้าชื่อใครไม่ขึ้นให้ใช้คำสั่ง +show ก่อนแล้วมาลองใหม่ \n"
-  num = 0
-  while num < len(listC1):
-    value = db[listC1[num]]
-    nameDis = str(listC1[num])
-    np = 'n' + nameDis
-    #print(np)
-    keys = db.keys()
-    #print(keys)
-    check = False
-    for row in keys:
-      if row == np:
-        check = True
-        break
-    if check == True:
-      nameDis = db[np]
-      output = output + ''+ str(value[1]) + '★Star ของ ' +nameDis + ' \n'
-    else:
-      output = output + ''+str(value[1]) + '★Star ของ ' + '<@'+nameDis+'> \n'
-    num += 1
-    if num%25 == 0:
-      await ctx.send('```' + output + '```' )
-      output = " ----------<Leader Board>---------- \n"
-      output = output + " ถ้าชื่อใครไม่ขึ้นให้ใช้คำสั่ง +show ก่อนแล้วมาลองใหม่ \n"
-    elif num == len(listC1):
-      await ctx.send('```' + output + '```' )
-      output = " ----------<Leader Board>---------- \n"
-      output = output + " ถ้าชื่อใครไม่ขึ้นให้ใช้คำสั่ง +show ก่อนแล้วมาลองใหม่ \n"
+# @client.command()
+# async def b(ctx):
+#   await ctx.channel.send('ขอเวลาบอทคิดแปปนึง')
+#   cal_board1()
+#   #print(listC)
+#   output = " ----------<Leader Board>---------- \n"
+#   output = output + " ถ้าชื่อใครไม่ขึ้นให้ใช้คำสั่ง +show ก่อนแล้วมาลองใหม่ \n"
+#   num = 0
+#   while num < len(listC1):
+#     value = db[listC1[num]]
+#     nameDis = str(listC1[num])
+#     np = 'n' + nameDis
+#     #print(np)
+#     keys = db.keys()
+#     #print(keys)
+#     check = False
+#     for row in keys:
+#       if row == np:
+#         check = True
+#         break
+#     if check == True:
+#       nameDis = db[np]
+#       output = output + ''+ str(value[1]) + '★Star ของ ' +nameDis + ' \n'
+#     else:
+#       output = output + ''+str(value[1]) + '★Star ของ ' + '<@'+nameDis+'> \n'
+#     num += 1
+#     if num%25 == 0:
+#       await ctx.send('```' + output + '```' )
+#       output = " ----------<Leader Board>---------- \n"
+#       output = output + " ถ้าชื่อใครไม่ขึ้นให้ใช้คำสั่ง +show ก่อนแล้วมาลองใหม่ \n"
+#     elif num == len(listC1):
+#       await ctx.send('```' + output + '```' )
+#       output = " ----------<Leader Board>---------- \n"
+#       output = output + " ถ้าชื่อใครไม่ขึ้นให้ใช้คำสั่ง +show ก่อนแล้วมาลองใหม่ \n"
 
 @client.command(pass_context = True)
 @has_permissions(administrator = True)
@@ -385,6 +385,18 @@ async def สร้าง(ctx, name:str, num:int):
     await ctx.send(name + ' Gacha กำลังเริ่ม มีของทั้งหมด ' + str(num) + 'รายการ')
   else:
     await ctx.send(' Gacha ถูกสร้างไปแล้ว')
+
+@client.command()
+# @has_permissions(administrator = True)
+async def editEmo(ctx, name:str, emoji:str):
+  emo = db["emo"]
+  for arr in range(len(emo)):
+    print(emo[arr])
+    print(name)
+    print(emoji)
+    if emo[arr] == ":"+name+":":
+      emo[arr] = emoji
+  db["emo"] = emo
 
 @client.command()
 # @has_permissions(administrator = True)
@@ -480,6 +492,7 @@ async def โชค(ctx):
     t = db["item"]
     pic = db["pic"]
     emo = db["emo"]
+    name_salt = db["name_salt"]
     # valueArr = random.sample(range(len(t)), len(t))
     # print(t)
     if len(t) > 0:
@@ -513,13 +526,27 @@ async def โชค(ctx):
             time.sleep(0.5)
             await message1.edit(content="\r " + emo[valueArr[(x+i-2) % len(valueArr)]] + " " + emo[valueArr[(x+i-1) % len(valueArr)]] + " " + emo[valueArr[(x+i) % len(valueArr)]] + " " + emo[valueArr[(x+i+1) % len(valueArr)]] + " " + emo[valueArr[(x+i+2) % len(valueArr)]])
             if i == (numran-1):
-              await ctx.send(user_id + ' ได้รับ ||' + t[valueArr[(x+i) % len(valueArr)]] +'|| \nเหลือของในlotto อีก ' + str(len(t)-1))
+              await ctx.send('รื้อโกดังหาของรางวัลให้แปปนึง ถ้าไม่รอเอาเกลือแทนไหม?')
+              time.sleep(5)
+              if name_salt == t[valueArr[(x+i) % len(valueArr)]]:
+                valueGacha[1] = valueGacha[1] + 1
+              embed = discord.Embed(title=f"{'-----<Gacha Report>-----'}",description=(user_id + ' ได้รับของ'),color=discord.Color.red())
+              embed.add_field(name="ของที่ได้รับ", value=f"{t[valueArr[(x+i) % len(valueArr)]]}")
+              embed.add_field(name="Lotto ที่ใช้ได้", value=f"{(valueGacha[2]-1)}")
+              embed.add_field(name="จำนวนเกลือที่มี", value=f"{valueGacha[1]}")
+              embed.add_field(name="ของข้างในเหลือ", value=f"{(len(t)-1)}")
               if pic[valueArr[(x+i) % len(valueArr)]] != "no":
-                await ctx.send('|| '+pic[valueArr[(x+i) % len(valueArr)]]+' ||')
+                embed.set_image(url=pic[valueArr[(x+i) % len(valueArr)]])
+              await ctx.send(embed=embed)
               print('||' + user_id + ' ได้รับ ' + t[valueArr[(x+i) % len(valueArr)]] +'||')
+
+              
+              
               t.pop(valueArr[(x+i) % len(valueArr)])
               pic.pop(valueArr[(x+i) % len(valueArr)])
               emo.pop(valueArr[(x+i) % len(valueArr)])
+              
+              
               # valueArr.pop((x+i) % len(valueArr))
               
               db["item"] = t
@@ -545,7 +572,6 @@ async def โชค(ctx):
 async def แสดง(ctx):
   name = db["name"]
   t = db["item"]
-  emo = db["emo"]
   
   arr = [item for item, count in collections.Counter(t).items() if count > 0]
   num = 0
@@ -560,6 +586,10 @@ async def แสดง(ctx):
     
   await ctx.send(text)
 
+@client.command()
+async def เกลือ(ctx, name:str):
+  db["name_salt"] = name
+  await ctx.channel.send(name + " ถูกจัดเก็บในโกดังเกลือ")
 
 @client.command()
 async def restart(ctx): 
