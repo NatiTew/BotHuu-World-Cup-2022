@@ -55,3 +55,136 @@
 09/06/2022, 06:57:19 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
 09/06/2022, 06:57:22 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
 09/06/2022, 06:57:39 | System Starting...
+09/06/2022, 06:59:42 | System Starting...
+09/06/2022, 07:00:01 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
+09/06/2022, 07:00:09 | Aepmong Do use method add star to list, Add to list
+09/06/2022, 07:00:09 | Create db of star, it has star_id, star_name and star_point
+09/06/2022, 07:00:13 | Aepmong Do use method list
+09/06/2022, 07:00:28 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:00:31 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:00:35 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:00:39 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:00:42 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:07:19 | System Starting...
+09/06/2022, 07:11:56 | System Starting...
+09/06/2022, 07:13:39 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 07:13:45 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 07:13:47 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 07:14:03 | Aepmong Do use method add 100 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 07:14:11 | Aepmong Do use method add 15 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 07:15:17 | System Starting...
+09/06/2022, 07:15:33 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:01 | System Starting...
+09/06/2022, 07:26:06 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:08 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:12 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:16 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:21 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:27 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:26:47 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:17 | System Starting...
+09/06/2022, 07:27:20 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:22 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:24 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:30 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:43 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:45 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:48 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:51 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:27:54 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:28:05 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:28:09 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:28:11 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:28:15 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:28:18 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:28:20 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:29:42 | System Starting...
+09/06/2022, 07:29:52 | Aepmong Do use method add 200 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:00 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:03 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:08 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:11 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:15 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:18 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:21 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:30:24 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:33:58 | System Starting...
+09/06/2022, 07:34:04 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:34:09 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:34:12 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:34:15 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:34:19 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:34:23 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:11 | System Starting...
+09/06/2022, 07:46:22 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:24 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:27 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:32 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:43 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:48 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:46:52 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
+09/06/2022, 07:47:18 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
+09/06/2022, 07:47:45 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
+09/06/2022, 07:47:50 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
+09/06/2022, 07:47:56 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
+09/06/2022, 07:50:06 | System Starting...
+09/06/2022, 07:50:10 | Aepmong Do use method add 5 point to <493716749342998541>Mimu in star
+09/06/2022, 07:50:43 | Aepmong Do use method add 5 point to <493716749342998541>Mimu in star
+09/06/2022, 07:52:21 | System Starting...
+09/06/2022, 07:52:39 | System Starting...
+09/06/2022, 07:52:44 | Aepmong Do use method add 2 point to <819778342818414632>Activities in star
+09/06/2022, 07:53:08 | System Starting...
+09/06/2022, 07:53:16 | Aepmong Do use method add 15 point to <949016912145289296>Paras Sales Bot in star
+09/06/2022, 07:53:20 | Aepmong Do use method add 15 point to <949016912145289296>Paras Sales Bot in star
+09/06/2022, 07:55:20 | System Starting...
+09/06/2022, 07:55:36 | Aepmong Do use method add 2 point to <530082442967646230>Giveaway Boat in star
+09/06/2022, 07:55:43 | Aepmong Do use method add 2 point to <530082442967646230>Giveaway Boat in star
+09/06/2022, 07:56:53 | System Starting...
+09/06/2022, 07:57:00 | System Starting...
+09/06/2022, 07:57:04 | Aepmong Do use method add 1 to list, Add to list
+09/06/2022, 07:57:04 | Create db of 1, it has 1_id, 1_name and 1_point
+09/06/2022, 07:57:09 | Aepmong Do use method add 2 to list, Add to list
+09/06/2022, 07:57:10 | Create db of 2, it has 2_id, 2_name and 2_point
+09/06/2022, 07:57:19 | Aepmong Do use method list
+09/06/2022, 07:57:38 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 07:57:43 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 07:57:49 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 07:58:01 | Aepmong Do use method add 7 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:06 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:10 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:19 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:21 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:23 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:35 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:38 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 07:58:41 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
+09/06/2022, 08:03:59 | System Starting...
+09/06/2022, 08:04:43 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:04:47 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:04:49 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:04:53 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:04:57 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:05:10 | Aepmong Do use method cut 25 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:06:54 | System Starting...
+09/06/2022, 08:17:54 | System Starting...
+09/06/2022, 08:19:15 | System Starting...
+09/06/2022, 08:19:52 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in 1
+09/06/2022, 08:21:08 | System Starting...
+09/06/2022, 08:23:45 | System Starting...
+09/06/2022, 08:29:04 | System Starting...
+09/06/2022, 08:29:40 | System Starting...
+09/06/2022, 08:31:01 | System Starting...
+09/06/2022, 08:31:44 | System Starting...
+09/06/2022, 08:32:20 | System Starting...
+09/06/2022, 08:34:10 | System Starting...
+09/06/2022, 08:34:23 | System Starting...
+09/06/2022, 08:35:56 | Fequinox use method add salt to list, Add to list
+09/06/2022, 08:35:57 | Create db of salt, it has salt_id, salt_name and salt_point
+09/06/2022, 08:36:19 | Fequinox use method list
+09/06/2022, 08:37:04 | Fequinox use method add GGD to list, Add to list
+09/06/2022, 08:37:05 | Create db of GGD, it has GGD_id, GGD_name and GGD_point
+09/06/2022, 08:37:15 | Fequinox use method list
+09/06/2022, 08:40:54 | Fequinox use method add 1 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 08:42:08 | Fequinox use method add 10 point to <358984660342145025>Aepmong Do in salt
+09/06/2022, 08:42:37 | Fequinox use method add 8 point to <358984660342145025>Aepmong Do in GGD
+09/06/2022, 08:45:23 | Fequinox use method cut 4 point to <358984660342145025>Aepmong Do in salt

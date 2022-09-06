@@ -4,24 +4,17 @@
 #   del db[row]
 
 import os
-import numpy as np
-import random
 import discord
-import collections
-import time
-import logging
-import datetime
 from datetime import datetime
 from os import system
-from itertools import repeat
 from time import sleep
 from keepAlive import keep_alive
 from discord.ext import commands
 from replit import db
 from discord.ext.commands import has_permissions, MissingPermissions
 
-#my_secret = os.environ['Token']
-my_secret = os.environ['TokenAdmin']
+my_secret = os.environ['Token']
+# my_secret = os.environ['TokenAdmin']
 
 client = commands.Bot(command_prefix='+')
 
@@ -67,24 +60,25 @@ def addData(choice:int, id:str, name:str, point:int):
   tmpid = list[choice-1] + '_id'
   tmpname = list[choice-1] + '_name'
   tmppoint = list[choice-1] + '_point'
-  dataID = []
+  dataID = db[tmpid]
   dataName = db[tmpname]
   dataPoint = db[tmppoint]
-  for arr in db[tmpid]:
-    dataID.append(arr)
+  # print(dataID)
+  # print(dataName)
+  # print(dataPoint)
   
-  p = 0
-  num = 0
-  while num < len(dataID):
-    if dataID[num] == id:
-      p = dataPoint[num]
-      tmp = True
-      break
-    num += 1
-  sum = (p + point)
+  sum = 0
+  index = -999
+  if id in dataID:
+    index = dataID.index(id)
+    p = dataPoint[index]
+    sum = (p + point)
+    tmp = True
+  # print(tmp)  
+    
   if tmp == True:
-    dataName[num] = name
-    dataPoint[num] = sum
+    dataName[index] = name
+    dataPoint[index] = sum
     # print(dataID)
     # print(dataName)
     # print(dataPoint)
@@ -95,6 +89,7 @@ def addData(choice:int, id:str, name:str, point:int):
     dataID.append(id)
     dataName.append(name)
     dataPoint.append(point)
+    sum = point
     # print(dataID)
     # print(dataName)
     # print(dataPoint)
@@ -103,6 +98,40 @@ def addData(choice:int, id:str, name:str, point:int):
     db[tmppoint] = dataPoint
 
   return sum
+
+def cutData(choice:int, id:str, name:str, point:int):
+  list = db["list"]
+  tmp = False
+  tmpid = list[choice-1] + '_id'
+  tmpname = list[choice-1] + '_name'
+  tmppoint = list[choice-1] + '_point'
+  dataID = db[tmpid]
+  dataName = db[tmpname]
+  dataPoint = db[tmppoint]
+
+  sum = 0
+  index = -999
+  if id in dataID:
+    index = dataID.index(id)
+    p = dataPoint[index]
+    sum = (p - point)
+    tmp = True
+  else:
+    return 777
+  
+  if sum < 0:
+    return 999
+  if tmp == True:
+    dataName[index] = name
+    dataPoint[index] = sum
+    # print(dataID)
+    # print(dataName)
+    # print(dataPoint)
+    db[tmpid] = dataID
+    db[tmpname] = dataName
+    db[tmppoint] = dataPoint
+  return sum
+   
 
 @client.event
 async def on_ready():
@@ -117,13 +146,16 @@ async def on_ready():
 async def info(ctx):
   async for message in ctx.channel.history(limit=1):
     await message.delete()
-  await ctx.send("❈────────•✦•กระดานคำสั่ง•✦•────────❈\n"
-                  "(ทุกคนสามารถใช้ได้ทุกคน)\n\n"
+  await ctx.send("❈────────•✦•กระดานคำสั่ง•✦•────────❈\n\n"
+                  "─────────────Admin────────────\n"
+                  "+make <ชื่อ>   → สร้างlist ที่ใช้เก็บคะแนน เช่น เกลือ\n"
+                  "+list   → แสดงเลข list\n"
+                  "+add <เลขlist> <@name> <แต้ม>    → เพิ่มแต้ม\n"
+                  "+cut <เลขlist> <@name> <แต้ม>    → ลดแต้ม\n\n"
+                  "─────────────User─────────────\n"
                   "+show   → เช็ค point ตัวเอง\n"
                   "+s <@name>   → เช็ค point คนอื่น\n"
-                  "+salt   → เปิด LeaderBoard 25 อันดับแรก\n\n"
-                  "+gacha   → เปิด LeaderBoard 25 อันดับแรก\n\n"
-                  "❈────────•✦•❅•✦•────────❈\n")
+                  "❈──────────•✦•❅•✦•──────────❈\n")
 
 @client.command()
 @has_permissions(administrator = True)
@@ -191,38 +223,85 @@ async def add(ctx, choice: int, player: discord.Member, point: int):
     log = '{} use method add {} point to <{}>{} in {}'.format(nameAdmin, str(point), idP, nameP, list[choice-1])
     updateLog(log)
     await ctx.channel.send('<@{}> add {} Point to {} , now you have {}'.format(idP, str(point), list[choice-1], str(sum)))
-  
+
 @client.command()
 @has_permissions(administrator = True)
-async def add1(ctx, player: discord.Member, input: int):
-  sPlayer = str(player.id)
-  np = 'n' + str(player.id)
-  nPlayer = str(player.name)
-  check = False
-  keys = db.keys()
-  for row in keys:
-    if row == sPlayer:
-      check = True
-      # print(check)
-      break
-  if check == True:
-    value = db[sPlayer]
-    value[1] = (value[1] + input)
-    # print(value[0])
-    db[sPlayer] = value
-    db[np] = nPlayer
+async def cut(ctx, choice: int, player: discord.Member, point: int):
+  nameAdmin = str(ctx.author.name)
+  list = db["list"]
+  if choice <= 0 or choice > len(list) :
+    await ctx.channel.send('Number of list is wrong')
+  elif point < 1:
+    await ctx.channel.send('Number of point is wrong')
   else:
-    db[np] = nPlayer
-    arr = ['player',0,0]
-    arr[1] = input
-    # print(arr[0])
-    db[sPlayer] = arr
-  # print('<@'+ sPlayer +'> add '+ str(input) +'♚DouCoin')
-  await ctx.channel.send('<@'+ sPlayer +'> add '+ str(input) +'♚Salt')
+    idP = str(player.id)
+    nameP = str(player.name)
+    sum = cutData(choice, idP, nameP, point)
+    if sum == 999:
+      await ctx.channel.send('Balance not enough')
+    elif sum == 777:
+      await ctx.channel.send('User never have point')
+    else:
+      log = '{} use method cut {} point to <{}>{} in {}'.format(nameAdmin, str(point), idP, nameP, list[choice-1])
+      updateLog(log)
+      await ctx.channel.send('<@{}> cut {} Point to {} , now you have {}'.format(idP, str(point), list[choice-1], str(sum)))
+  
+@client.command()
+async def show(ctx):
+  user_id = str(ctx.author)
+  id = str(ctx.author.id)
+  embed = discord.Embed(title=f"{'----------<Board>----------'}", description=('คะแนนของ ' + user_id),color=discord.Color.red())
+  list = db["list"]
+  for arr in list:
+    tmpid = arr + '_id'
+    tmppoint = arr + '_point'
+    
+    dataID = db[tmpid]
+    dataPoint = db[tmppoint]
 
+    index = 0
+    
+    if id in dataID:
+      index = dataID.index(id)
+      embed.add_field(name=arr, value=f"{str(dataPoint[index])}")
+    else:
+      embed.add_field(name=arr, value=f"{'0'}")
+  await ctx.send(embed=embed)
 
-@add1.error
-async def add1_error(ctx, error):
+@client.command()
+async def s(ctx, player: discord.Member):
+  user_id = str(player)
+  id = str(player.id)
+  embed = discord.Embed(title=f"{'----------<Board>----------'}", description=('คะแนนของ ' + user_id),color=discord.Color.red())
+  list = db["list"]
+  for arr in list:
+    tmpid = arr + '_id'
+    tmppoint = arr + '_point'
+    
+    dataID = db[tmpid]
+    dataPoint = db[tmppoint]
+
+    index = 0
+    
+    if id in dataID:
+      index = dataID.index(id)
+      embed.add_field(name=arr, value=f"{str(dataPoint[index])}")
+    else:
+      embed.add_field(name=arr, value=f"{'0'}")
+  await ctx.send(embed=embed)
+  
+@add.error
+async def add_error(ctx, error):
+  if isinstance(error, MissingPermissions):
+    text = "Sorry {}, you do not have permissions to do that!".format(ctx.message.author)
+    await ctx.send(text)
+@cut.error
+async def cut_error(ctx, error):
+  if isinstance(error, MissingPermissions):
+    text = "Sorry {}, you do not have permissions to do that!".format(ctx.message.author)
+    await ctx.send(text)
+@make.error
+async def make_error(ctx, error):
   if isinstance(error, MissingPermissions):
     text = "Sorry {}, you do not have permissions to do that!".format(ctx.message.author)
     await ctx.send(text)
