@@ -1,190 +1,1244 @@
-
-09/06/2022, 05:29:24 | System Starting...
-09/06/2022, 05:48:41 | System Starting...
-09/06/2022, 05:48:55 | Aepmong Do use method add star to list, Add to list
-09/06/2022, 05:48:56 | Create db of star, it has star_id, star_name and star_point
-09/06/2022, 05:49:29 | System Starting...
-09/06/2022, 05:49:45 | Aepmong Do use method add salt to list, Add to list
-09/06/2022, 05:49:45 | Create db of salt, it has salt_id, salt_name and salt_point
-09/06/2022, 05:49:56 | Aepmong Do use method add salt to list, But it's in list already
-09/06/2022, 05:50:12 | System Starting...
-09/06/2022, 05:59:11 | System Starting...
-09/06/2022, 06:01:27 | System Starting...
-09/06/2022, 06:02:53 | System Starting...
-09/06/2022, 06:03:44 | System Starting...
-09/06/2022, 06:04:35 | System Starting...
-09/06/2022, 06:06:42 | System Starting...
-09/06/2022, 06:07:11 | System Starting...
-09/06/2022, 06:07:14 | Aepmong Do use method list
-09/06/2022, 06:07:32 | Aepmong Do use method list
-09/06/2022, 06:34:08 | System Starting...
-09/06/2022, 06:41:45 | System Starting...
-09/06/2022, 06:42:00 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do
-09/06/2022, 06:42:42 | System Starting...
-09/06/2022, 06:42:52 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do
-09/06/2022, 06:43:17 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo
-09/06/2022, 06:44:54 | System Starting...
-09/06/2022, 06:47:14 | System Starting...
-09/06/2022, 06:47:19 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:48:52 | System Starting...
-09/06/2022, 06:49:05 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 06:49:15 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 06:49:22 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:49:33 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:50:29 | Aepmong Do use method list
-09/06/2022, 06:50:47 | Aepmong Do use method add 5 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 06:51:12 | Aepmong Do use method add 50 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:52:16 | System Starting...
-09/06/2022, 06:52:50 | Aepmong Do use method add 50 point to <358984660342145025>Aepmong Do in star
-09/06/2022, 06:53:18 | System Starting...
-09/06/2022, 06:53:30 | System Starting...
-09/06/2022, 06:54:13 | Aepmong Do use method add salt to list, Add to list
-09/06/2022, 06:54:13 | Create db of salt, it has salt_id, salt_name and salt_point
-09/06/2022, 06:54:21 | Aepmong Do use method list
-09/06/2022, 06:54:29 | Aepmong Do use method add 15 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:54:33 | Aepmong Do use method add 15 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:56:25 | System Starting...
-09/06/2022, 06:56:40 | Aepmong Do use method add 20 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:56:44 | Aepmong Do use method add 20 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:56:46 | Aepmong Do use method add 20 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:56:49 | Aepmong Do use method add 20 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:56:51 | Aepmong Do use method add 20 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 06:57:06 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:57:11 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:57:16 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:57:19 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:57:22 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 06:57:39 | System Starting...
-09/06/2022, 06:59:42 | System Starting...
-09/06/2022, 07:00:01 | Aepmong Do use method add 15 point to <985411575034814474>AepBot_GizZenNo in salt
-09/06/2022, 07:00:09 | Aepmong Do use method add star to list, Add to list
-09/06/2022, 07:00:09 | Create db of star, it has star_id, star_name and star_point
-09/06/2022, 07:00:13 | Aepmong Do use method list
-09/06/2022, 07:00:28 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:00:31 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:00:35 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:00:39 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:00:42 | Aepmong Do use method add 3 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:07:19 | System Starting...
-09/06/2022, 07:11:56 | System Starting...
-09/06/2022, 07:13:39 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 07:13:45 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 07:13:47 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 07:14:03 | Aepmong Do use method add 100 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 07:14:11 | Aepmong Do use method add 15 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 07:15:17 | System Starting...
-09/06/2022, 07:15:33 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:01 | System Starting...
-09/06/2022, 07:26:06 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:08 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:12 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:16 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:21 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:27 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:26:47 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:17 | System Starting...
-09/06/2022, 07:27:20 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:22 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:24 | Aepmong Do use method cut 1 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:30 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:43 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:45 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:48 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:51 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:27:54 | Aepmong Do use method add 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:28:05 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:28:09 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:28:11 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:28:15 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:28:18 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:28:20 | Aepmong Do use method cut 2 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:29:42 | System Starting...
-09/06/2022, 07:29:52 | Aepmong Do use method add 200 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:00 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:03 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:08 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:11 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:15 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:18 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:21 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:30:24 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:33:58 | System Starting...
-09/06/2022, 07:34:04 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:34:09 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:34:12 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:34:15 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:34:19 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:34:23 | Aepmong Do use method cut 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:11 | System Starting...
-09/06/2022, 07:46:22 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:24 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:27 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:32 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:43 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:48 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:46:52 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in star
-09/06/2022, 07:47:18 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
-09/06/2022, 07:47:45 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
-09/06/2022, 07:47:50 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
-09/06/2022, 07:47:56 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in star
-09/06/2022, 07:50:06 | System Starting...
-09/06/2022, 07:50:10 | Aepmong Do use method add 5 point to <493716749342998541>Mimu in star
-09/06/2022, 07:50:43 | Aepmong Do use method add 5 point to <493716749342998541>Mimu in star
-09/06/2022, 07:52:21 | System Starting...
-09/06/2022, 07:52:39 | System Starting...
-09/06/2022, 07:52:44 | Aepmong Do use method add 2 point to <819778342818414632>Activities in star
-09/06/2022, 07:53:08 | System Starting...
-09/06/2022, 07:53:16 | Aepmong Do use method add 15 point to <949016912145289296>Paras Sales Bot in star
-09/06/2022, 07:53:20 | Aepmong Do use method add 15 point to <949016912145289296>Paras Sales Bot in star
-09/06/2022, 07:55:20 | System Starting...
-09/06/2022, 07:55:36 | Aepmong Do use method add 2 point to <530082442967646230>Giveaway Boat in star
-09/06/2022, 07:55:43 | Aepmong Do use method add 2 point to <530082442967646230>Giveaway Boat in star
-09/06/2022, 07:56:53 | System Starting...
-09/06/2022, 07:57:00 | System Starting...
-09/06/2022, 07:57:04 | Aepmong Do use method add 1 to list, Add to list
-09/06/2022, 07:57:04 | Create db of 1, it has 1_id, 1_name and 1_point
-09/06/2022, 07:57:09 | Aepmong Do use method add 2 to list, Add to list
-09/06/2022, 07:57:10 | Create db of 2, it has 2_id, 2_name and 2_point
-09/06/2022, 07:57:19 | Aepmong Do use method list
-09/06/2022, 07:57:38 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 07:57:43 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 07:57:49 | Aepmong Do use method add 10 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 07:58:01 | Aepmong Do use method add 7 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:06 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:10 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:19 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:21 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:23 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:35 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:38 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 07:58:41 | Aepmong Do use method add 10 point to <985411575034814474>AepBot_GizZenNo in 1
-09/06/2022, 08:03:59 | System Starting...
-09/06/2022, 08:04:43 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:04:47 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:04:49 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:04:53 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:04:57 | Aepmong Do use method cut 1 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:05:10 | Aepmong Do use method cut 25 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:06:54 | System Starting...
-09/06/2022, 08:17:54 | System Starting...
-09/06/2022, 08:19:15 | System Starting...
-09/06/2022, 08:19:52 | Aepmong Do use method add 5 point to <358984660342145025>Aepmong Do in 1
-09/06/2022, 08:21:08 | System Starting...
-09/06/2022, 08:23:45 | System Starting...
-09/06/2022, 08:29:04 | System Starting...
-09/06/2022, 08:29:40 | System Starting...
-09/06/2022, 08:31:01 | System Starting...
-09/06/2022, 08:31:44 | System Starting...
-09/06/2022, 08:32:20 | System Starting...
-09/06/2022, 08:34:10 | System Starting...
-09/06/2022, 08:34:23 | System Starting...
-09/06/2022, 08:35:56 | Fequinox use method add salt to list, Add to list
-09/06/2022, 08:35:57 | Create db of salt, it has salt_id, salt_name and salt_point
-09/06/2022, 08:36:19 | Fequinox use method list
-09/06/2022, 08:37:04 | Fequinox use method add GGD to list, Add to list
-09/06/2022, 08:37:05 | Create db of GGD, it has GGD_id, GGD_name and GGD_point
-09/06/2022, 08:37:15 | Fequinox use method list
-09/06/2022, 08:40:54 | Fequinox use method add 1 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 08:42:08 | Fequinox use method add 10 point to <358984660342145025>Aepmong Do in salt
-09/06/2022, 08:42:37 | Fequinox use method add 8 point to <358984660342145025>Aepmong Do in GGD
-09/06/2022, 08:45:23 | Fequinox use method cut 4 point to <358984660342145025>Aepmong Do in salt
+11/26/2022, 13:51:55 | System Starting...
+11/26/2022, 13:52:48 | System Starting...
+11/26/2022, 13:54:23 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/26/2022, 13:57:28 | System Starting...
+11/26/2022, 13:59:09 | System Starting...
+11/26/2022, 14:00:26 | System Starting...
+11/26/2022, 14:00:40 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/26/2022, 14:13:03 | System Starting...
+11/26/2022, 14:19:13 | System Starting...
+11/26/2022, 14:21:23 | System Starting...
+11/26/2022, 14:21:37 | System Starting...
+11/26/2022, 14:22:41 | System Starting...
+11/26/2022, 14:23:27 | System Starting...
+11/26/2022, 14:24:17 | System Starting...
+11/26/2022, 14:25:26 | System Starting...
+11/26/2022, 14:27:47 | System Starting...
+11/26/2022, 14:28:35 | System Starting...
+11/26/2022, 14:29:25 | System Starting...
+11/26/2022, 14:29:29 | Aepmong Do use method cut 2 point from <<@358984660342145025>> in ทายถูก
+11/26/2022, 14:29:41 | Aepmong Do use method cut 2 point from <<@358984660342145025>> in ทายถูก
+11/26/2022, 14:30:40 | System Restarting...By Aepmong Do use shutdown method
+11/26/2022, 14:41:26 | System Starting...
+11/26/2022, 14:42:11 | System Starting...
+11/26/2022, 14:43:02 | System Starting...
+11/26/2022, 14:44:40 | System Starting...
+11/26/2022, 14:45:36 | System Starting...
+11/26/2022, 14:46:14 | System Starting...
+11/26/2022, 14:46:36 | System Starting...
+11/26/2022, 14:48:03 | System Starting...
+11/26/2022, 14:48:19 | System Starting...
+11/26/2022, 14:49:19 | System Starting...
+11/26/2022, 15:01:30 | Aepmong Do use method add ทายถูก to list, Add to list
+11/26/2022, 15:01:46 | Aepmong Do use method add ทายผิด to list, Add to list
+11/26/2022, 15:08:48 | System Starting...
+11/26/2022, 15:21:28 | System Starting...
+11/26/2022, 15:23:46 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/26/2022, 15:23:47 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/26/2022, 15:23:48 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/26/2022, 15:23:50 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/26/2022, 15:23:51 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายถูก
+11/26/2022, 15:28:50 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/26/2022, 15:28:51 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/26/2022, 15:28:53 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายถูก
+11/26/2022, 15:28:55 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/26/2022, 15:28:57 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายถูก
+11/26/2022, 15:28:58 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/26/2022, 15:28:59 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/26/2022, 15:28:59 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายถูก
+11/26/2022, 15:29:00 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/26/2022, 15:29:01 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/26/2022, 15:29:02 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/26/2022, 15:29:03 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/26/2022, 15:29:05 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/26/2022, 15:29:05 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/26/2022, 15:29:06 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/26/2022, 15:29:44 | Aepmong Do use method add 2 point to <<@433601402703577100>> in ทายถูก
+11/27/2022, 03:09:19 | System Starting...
+11/27/2022, 03:09:26 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/27/2022, 03:09:27 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/27/2022, 03:09:28 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/27/2022, 03:09:29 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/27/2022, 03:09:31 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/27/2022, 03:09:32 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/27/2022, 03:09:33 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/27/2022, 03:09:34 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/27/2022, 03:09:35 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/27/2022, 03:09:36 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/27/2022, 03:09:37 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายผิด
+11/27/2022, 03:09:38 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายผิด
+11/27/2022, 03:09:39 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/27/2022, 03:09:40 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/27/2022, 03:09:41 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:09:42 | Aepmong Do use method add 1 point to <<@977750857963692062>> in ทายผิด
+11/27/2022, 03:09:43 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/27/2022, 03:09:44 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/27/2022, 03:09:45 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/27/2022, 03:09:46 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/27/2022, 03:09:47 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/27/2022, 03:09:48 | Aepmong Do use method add 1 point to <<@977750857963692062>> in ทายผิด
+11/27/2022, 03:09:48 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/27/2022, 03:09:50 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายผิด
+11/27/2022, 03:09:51 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/27/2022, 03:09:52 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/27/2022, 03:09:53 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/27/2022, 03:09:54 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายผิด
+11/27/2022, 03:09:55 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/27/2022, 03:09:56 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/27/2022, 03:09:57 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/27/2022, 03:09:58 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายผิด
+11/27/2022, 03:10:00 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/27/2022, 03:10:01 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/27/2022, 03:10:02 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/27/2022, 03:10:03 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/27/2022, 03:10:03 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:10:05 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/27/2022, 03:10:06 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/27/2022, 03:10:07 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/27/2022, 03:10:08 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายผิด
+11/27/2022, 03:10:08 | Aepmong Do use method add 1 point to <<@977750857963692062>> in ทายผิด
+11/27/2022, 03:10:10 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/27/2022, 03:10:11 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/27/2022, 03:10:12 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายผิด
+11/27/2022, 03:10:13 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/27/2022, 03:10:15 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/27/2022, 03:10:16 | Aepmong Do use method add 1 point to <<@505771898433699851>> in ทายผิด
+11/27/2022, 03:10:17 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/27/2022, 03:10:18 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/27/2022, 03:10:19 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/27/2022, 03:10:20 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายผิด
+11/27/2022, 03:10:21 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/27/2022, 03:10:22 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/27/2022, 03:10:23 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/27/2022, 03:10:24 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/27/2022, 03:10:25 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/27/2022, 03:10:26 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/27/2022, 03:10:27 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/27/2022, 03:10:28 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:15:45 | System Starting...
+11/27/2022, 03:19:55 | System Starting...
+11/27/2022, 03:20:36 | System Starting...
+11/27/2022, 03:31:51 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/27/2022, 03:31:53 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/27/2022, 03:31:54 | Aepmong Do use method add 1 point to <<@488446801922228224>> in ทายถูก
+11/27/2022, 03:31:55 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/27/2022, 03:31:57 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/27/2022, 03:31:58 | Aepmong Do use method add 1 point to <<@862074881914437653>> in ทายถูก
+11/27/2022, 03:31:59 | Aepmong Do use method add 1 point to <<@325566667663081473>> in ทายถูก
+11/27/2022, 03:32:00 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/27/2022, 03:32:01 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายถูก
+11/27/2022, 03:32:02 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/27/2022, 03:32:03 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/27/2022, 03:32:04 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/27/2022, 03:32:05 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายถูก
+11/27/2022, 03:32:06 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/27/2022, 03:32:07 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/27/2022, 03:32:08 | Aepmong Do use method add 1 point to <<@254615228157919232>> in ทายถูก
+11/27/2022, 03:32:09 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/27/2022, 03:32:10 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/27/2022, 03:32:11 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายถูก
+11/27/2022, 03:32:12 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/27/2022, 03:32:13 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/27/2022, 03:32:14 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/27/2022, 03:32:15 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/27/2022, 03:32:17 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายถูก
+11/27/2022, 03:32:18 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายถูก
+11/27/2022, 03:32:19 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/27/2022, 03:32:20 | Aepmong Do use method add 1 point to <<@254615228157919232>> in ทายถูก
+11/27/2022, 03:32:21 | Aepmong Do use method add 1 point to <<@862074881914437653>> in ทายถูก
+11/27/2022, 03:32:22 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/27/2022, 03:32:23 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/27/2022, 03:32:24 | Aepmong Do use method add 1 point to <<@488446801922228224>> in ทายถูก
+11/27/2022, 03:32:25 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/27/2022, 03:32:27 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/27/2022, 03:32:28 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/27/2022, 03:32:29 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/27/2022, 03:32:30 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/27/2022, 03:32:31 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/27/2022, 03:32:32 | Aepmong Do use method add 1 point to <<@970231165686546432>> in ทายถูก
+11/27/2022, 03:32:33 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายถูก
+11/27/2022, 03:32:34 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายถูก
+11/27/2022, 03:32:36 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/27/2022, 03:32:36 | Aepmong Do use method add 1 point to <<@254615228157919232>> in ทายถูก
+11/27/2022, 03:32:38 | Aepmong Do use method add 1 point to <<@325566667663081473>> in ทายถูก
+11/27/2022, 03:32:39 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/27/2022, 03:32:39 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/27/2022, 03:32:40 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/27/2022, 03:32:41 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/27/2022, 03:32:43 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/27/2022, 03:32:44 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/27/2022, 03:32:45 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/27/2022, 03:32:46 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/27/2022, 03:32:47 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/27/2022, 03:32:50 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/27/2022, 03:32:51 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/27/2022, 03:32:52 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายถูก
+11/27/2022, 03:35:59 | System Starting...
+11/27/2022, 03:38:42 | System Starting...
+11/27/2022, 03:44:14 | System Starting...
+11/27/2022, 03:49:37 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/27/2022, 03:49:37 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/27/2022, 03:49:38 | Aepmong Do use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/27/2022, 03:49:38 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/27/2022, 03:49:38 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/27/2022, 03:49:39 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/27/2022, 03:49:39 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/27/2022, 03:49:40 | Aepmong Do use method add 1 point to <<@254615228157919232>> in ทายผิด
+11/27/2022, 03:49:40 | Aepmong Do use method add 1 point to <<@876318462476177408>> in ทายผิด
+11/27/2022, 03:49:40 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายผิด
+11/27/2022, 03:49:41 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:49:41 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/27/2022, 03:49:42 | Aepmong Do use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/27/2022, 03:49:42 | Aepmong Do use method add 1 point to <<@488446801922228224>> in ทายผิด
+11/27/2022, 03:49:42 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/27/2022, 03:49:43 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/27/2022, 03:49:43 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/27/2022, 03:49:43 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/27/2022, 03:49:44 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/27/2022, 03:49:44 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:49:44 | Aepmong Do use method add 1 point to <<@876318462476177408>> in ทายผิด
+11/27/2022, 03:49:45 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/27/2022, 03:49:45 | Aepmong Do use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/27/2022, 03:49:46 | Aepmong Do use method add 1 point to <<@876318462476177408>> in ทายผิด
+11/27/2022, 03:49:46 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:49:47 | Aepmong Do use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/27/2022, 03:49:47 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/27/2022, 03:49:48 | Aepmong Do use method add 1 point to <<@876318462476177408>> in ทายผิด
+11/27/2022, 03:49:48 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/27/2022, 03:49:49 | Aepmong Do use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/27/2022, 03:49:49 | Aepmong Do use method add 1 point to <<@488446801922228224>> in ทายผิด
+11/27/2022, 03:49:49 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/27/2022, 03:50:25 | System Starting...
+11/27/2022, 07:39:07 | System Starting...
+11/27/2022, 14:17:43 | System Starting...
+11/27/2022, 18:00:50 | System Starting...
+11/27/2022, 18:03:39 | System Starting...
+11/27/2022, 18:06:59 | System Starting...
+11/27/2022, 19:03:07 | System Starting...
+11/28/2022, 00:29:39 | System Starting...
+11/28/2022, 05:21:16 | System Starting...
+11/28/2022, 11:22:04 | System Starting...
+11/28/2022, 11:28:02 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายถูก
+11/28/2022, 11:28:02 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/28/2022, 11:28:02 | Aepmong Do use method add 1 point to <<@841867220593410078>> in ทายถูก
+11/28/2022, 11:28:02 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@840133826022080563>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@748594883689709638>> in ทายถูก
+11/28/2022, 11:28:03 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@967330458394296320>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@488446801922228224>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/28/2022, 11:28:04 | Aepmong Do use method add 1 point to <<@325566667663081473>> in ทายถูก
+11/28/2022, 11:28:05 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายถูก
+11/28/2022, 11:28:05 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายถูก
+11/28/2022, 11:28:05 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/28/2022, 11:28:05 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/28/2022, 11:32:41 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/28/2022, 11:48:55 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายผิด
+11/28/2022, 11:48:55 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/28/2022, 11:48:55 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/28/2022, 11:48:55 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@840133826022080563>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@967330458394296320>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/28/2022, 11:48:56 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@952814969097957377>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@862074881914437653>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายผิด
+11/28/2022, 11:48:57 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@840133826022080563>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@967330458394296320>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@952814969097957377>> in ทายผิด
+11/28/2022, 11:48:58 | Aepmong Do use method add 1 point to <<@748594883689709638>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@862074881914437653>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/28/2022, 11:48:59 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@952814969097957377>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@862074881914437653>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/28/2022, 11:49:00 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@781366057495560193>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@967330458394296320>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@862074881914437653>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@358984660342145025>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/28/2022, 11:49:01 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@748594883689709638>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@840133826022080563>> in ทายผิด
+11/28/2022, 11:49:02 | Aepmong Do use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@598032695586586644>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@781366057495560193>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/28/2022, 11:49:03 | Aepmong Do use method add 1 point to <<@488446801922228224>> in ทายผิด
+11/28/2022, 11:49:04 | Aepmong Do use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/28/2022, 11:49:04 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/28/2022, 11:49:04 | Aepmong Do use method add 1 point to <<@254615228157919232>> in ทายผิด
+11/28/2022, 11:49:04 | Aepmong Do use method add 1 point to <<@952814969097957377>> in ทายผิด
+11/28/2022, 11:58:58 | System Starting...
+11/28/2022, 12:00:54 | System Starting...
+11/28/2022, 12:04:35 | Aepmong Do use method add 1 point to <<@781366057495560193>> in ทายถูก
+11/28/2022, 12:04:35 | Aepmong Do use method add 1 point to <<@970231165686546432>> in ทายถูก
+11/28/2022, 12:04:35 | Aepmong Do use method add 1 point to <<@794945364641579038>> in ทายถูก
+11/28/2022, 12:04:35 | Aepmong Do use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/28/2022, 12:04:35 | Aepmong Do use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/28/2022, 12:04:36 | Aepmong Do use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/28/2022, 12:13:16 | Aepmong Do use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/28/2022, 12:13:16 | Aepmong Do use method add 1 point to <<@967330458394296320>> in ทายผิด
+11/28/2022, 12:13:16 | Aepmong Do use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/28/2022, 12:13:16 | Aepmong Do use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/28/2022, 12:13:16 | Aepmong Do use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/28/2022, 12:13:16 | Aepmong Do use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@849276765569941544>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@378183963560247298>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@868554451378651176>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/28/2022, 12:13:17 | Aepmong Do use method add 1 point to <<@513687151498493963>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@505771898433699851>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/28/2022, 12:13:18 | Aepmong Do use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/28/2022, 12:25:32 | System Starting...
+11/28/2022, 12:35:47 | System Starting...
+11/28/2022, 12:41:35 | System Starting...
+11/28/2022, 12:43:51 | System Starting...
+11/28/2022, 12:46:37 | System Starting...
+11/28/2022, 13:02:48 | System Starting...
+11/28/2022, 13:03:23 | System Starting...
+11/28/2022, 13:05:44 | System Starting...
+11/28/2022, 13:06:41 | System Starting...
+11/28/2022, 13:10:01 | System Starting...
+11/28/2022, 13:10:29 | Aepmong Do use method add 1 point to <<@1045673917634854982>> in ทายถูก
+11/28/2022, 13:10:45 | Aepmong Do use method cut 1 point from <<@1045673917634854982>> in ทายถูก
+11/28/2022, 13:12:26 | System Starting...
+11/28/2022, 13:12:30 | Aepmong Do use method add 1 point to <<@1045673917634854982>> in ทายถูก
+11/28/2022, 13:14:27 | System Starting...
+11/28/2022, 13:15:22 | System Starting...
+11/28/2022, 13:15:26 | Aepmong Do use method add 1 point to <<@1045673917634854982>> in ทายถูก
+11/28/2022, 13:15:41 | Aepmong Do use method cut 2 point from <<@1045673917634854982>> in ทายถูก
+11/28/2022, 20:08:09 | System Starting...
+11/28/2022, 22:23:04 | System Starting...
+11/29/2022, 00:08:15 | System Starting...
+11/29/2022, 03:43:25 | System Starting...
+11/29/2022, 03:53:32 | System Starting...
+11/29/2022, 03:53:44 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/29/2022, 03:53:45 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+11/29/2022, 03:53:46 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/29/2022, 03:53:47 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/29/2022, 03:53:47 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/29/2022, 03:53:48 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/29/2022, 03:53:49 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+11/29/2022, 03:53:50 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+11/29/2022, 03:53:51 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+11/29/2022, 03:53:52 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/29/2022, 03:53:53 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/29/2022, 03:53:54 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+11/29/2022, 03:53:54 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+11/29/2022, 03:53:55 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/29/2022, 03:53:56 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/29/2022, 03:53:57 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/29/2022, 03:53:58 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+11/29/2022, 03:53:58 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+11/29/2022, 03:53:59 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/29/2022, 03:54:03 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายถูก
+11/29/2022, 03:54:04 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/29/2022, 03:54:04 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/29/2022, 03:54:05 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายถูก
+11/29/2022, 03:54:06 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+11/29/2022, 03:54:06 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/29/2022, 03:54:07 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+11/29/2022, 03:54:07 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายถูก
+11/29/2022, 03:54:08 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/29/2022, 03:54:13 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/29/2022, 03:54:14 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/29/2022, 03:54:14 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+11/29/2022, 03:54:15 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/29/2022, 03:54:16 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/29/2022, 03:54:17 | ゜゜ use method add 1 point to <<@254615228157919232>> in ทายถูก
+11/29/2022, 03:54:17 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+11/29/2022, 03:54:18 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+11/29/2022, 03:54:19 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/29/2022, 03:54:19 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายถูก
+11/29/2022, 03:54:20 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/29/2022, 03:54:20 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายถูก
+11/29/2022, 03:54:25 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/29/2022, 03:54:26 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/29/2022, 03:54:26 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/29/2022, 03:54:27 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/29/2022, 03:54:28 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+11/29/2022, 03:54:28 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/29/2022, 03:54:28 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/29/2022, 03:54:29 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+11/29/2022, 03:54:34 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/29/2022, 03:54:34 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายถูก
+11/29/2022, 03:54:35 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายถูก
+11/29/2022, 03:54:36 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/29/2022, 03:54:36 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/29/2022, 03:54:37 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายถูก
+11/29/2022, 03:54:37 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+11/29/2022, 03:55:18 | System Starting...
+11/29/2022, 03:55:30 | ゜゜ use method add 1 point to <<@1045673917634854982>> in ทายถูก
+11/29/2022, 03:55:54 | ゜゜ use method add 1 point to <<@1045673917634854982>> in ทายถูก
+11/29/2022, 03:55:55 | ゜゜ use method add 1 point to <<@1045673917634854982>> in ทายถูก
+11/29/2022, 03:56:16 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/29/2022, 03:56:42 | ゜゜ use method cut 1 point from <<@358984660342145025>> in ทายถูก
+11/29/2022, 04:00:40 | System Starting...
+11/29/2022, 04:01:15 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/29/2022, 04:02:05 | ゜゜ use method cut 1 point from <<@358984660342145025>> in ทายถูก
+11/29/2022, 04:04:50 | System Starting...
+11/29/2022, 04:14:45 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายผิด
+11/29/2022, 04:14:45 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/29/2022, 04:14:45 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/29/2022, 04:14:45 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/29/2022, 04:14:45 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/29/2022, 04:14:46 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/29/2022, 04:14:47 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/29/2022, 04:14:47 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+11/29/2022, 04:14:47 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายผิด
+11/29/2022, 04:14:47 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/29/2022, 04:14:47 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+11/29/2022, 04:14:47 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/29/2022, 04:14:48 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+11/29/2022, 04:14:49 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/29/2022, 04:14:49 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+11/29/2022, 04:14:49 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/29/2022, 04:14:49 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/29/2022, 04:14:49 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/29/2022, 04:14:49 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/29/2022, 04:14:50 | ゜゜ use method add 1 point to <<@717371464269037591>> in ทายผิด
+11/29/2022, 04:14:50 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/29/2022, 04:14:50 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/29/2022, 04:14:50 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/29/2022, 04:14:50 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+11/29/2022, 04:14:51 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/29/2022, 04:14:51 | ゜゜ use method add 1 point to <<@254615228157919232>> in ทายผิด
+11/29/2022, 04:14:51 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/29/2022, 04:14:51 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/29/2022, 04:18:01 | System Starting...
+11/29/2022, 08:23:47 | System Starting...
+11/29/2022, 20:07:49 | System Starting...
+11/29/2022, 20:32:38 | System Starting...
+11/29/2022, 22:47:41 | System Starting...
+11/29/2022, 23:17:37 | System Starting...
+11/30/2022, 03:49:57 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+11/30/2022, 03:49:57 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายถูก
+11/30/2022, 03:49:57 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+11/30/2022, 03:49:57 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/30/2022, 03:49:57 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+11/30/2022, 03:49:57 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/30/2022, 03:49:58 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/30/2022, 03:49:59 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายถูก
+11/30/2022, 03:49:59 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+11/30/2022, 03:49:59 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+11/30/2022, 03:49:59 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/30/2022, 03:50:00 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/30/2022, 03:50:00 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/30/2022, 03:50:00 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/30/2022, 03:50:01 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+11/30/2022, 03:50:01 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/30/2022, 03:50:01 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายถูก
+11/30/2022, 03:50:02 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/30/2022, 03:50:02 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+11/30/2022, 03:50:02 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+11/30/2022, 03:50:03 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+11/30/2022, 03:50:03 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/30/2022, 03:50:03 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/30/2022, 03:50:03 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายถูก
+11/30/2022, 03:50:03 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/30/2022, 03:50:04 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายถูก
+11/30/2022, 03:50:04 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/30/2022, 03:50:04 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/30/2022, 03:50:04 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+11/30/2022, 03:50:04 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/30/2022, 03:50:04 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายถูก
+11/30/2022, 03:50:05 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+11/30/2022, 03:50:06 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+11/30/2022, 03:50:06 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+11/30/2022, 03:50:06 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+11/30/2022, 03:53:43 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายถูก
+11/30/2022, 03:53:43 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+11/30/2022, 03:53:44 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+11/30/2022, 03:53:44 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+11/30/2022, 03:53:44 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+11/30/2022, 03:53:44 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+11/30/2022, 03:53:45 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+11/30/2022, 03:53:45 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+11/30/2022, 03:53:45 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+11/30/2022, 03:53:45 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+11/30/2022, 03:53:46 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+11/30/2022, 03:53:46 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+11/30/2022, 03:53:46 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+11/30/2022, 03:53:46 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+11/30/2022, 03:53:47 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+11/30/2022, 03:56:43 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/30/2022, 03:56:43 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/30/2022, 03:56:43 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+11/30/2022, 03:56:44 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+11/30/2022, 04:05:11 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/30/2022, 04:05:12 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/30/2022, 04:05:13 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/30/2022, 04:05:14 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+11/30/2022, 04:05:15 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+11/30/2022, 04:05:16 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+11/30/2022, 04:27:44 | System Starting...
+11/30/2022, 05:17:46 | System Starting...
+12/01/2022, 04:22:41 | System Starting...
+12/01/2022, 13:07:50 | System Starting...
+12/01/2022, 13:52:34 | System Starting...
+12/01/2022, 13:52:43 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/01/2022, 13:52:43 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายถูก
+12/01/2022, 13:52:44 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/01/2022, 13:52:45 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/01/2022, 13:52:45 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+12/01/2022, 13:52:45 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/01/2022, 13:52:45 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/01/2022, 13:52:46 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+12/01/2022, 13:52:46 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/01/2022, 13:52:46 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+12/01/2022, 13:52:46 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/01/2022, 13:52:46 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายถูก
+12/01/2022, 13:52:46 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/01/2022, 13:52:47 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/01/2022, 13:52:48 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/01/2022, 13:52:49 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/01/2022, 13:52:50 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/01/2022, 13:52:50 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/01/2022, 14:30:01 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/01/2022, 14:30:01 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+12/01/2022, 14:30:02 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายผิด
+12/01/2022, 14:30:02 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/01/2022, 14:30:02 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/01/2022, 14:30:02 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/01/2022, 14:30:03 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/01/2022, 14:30:04 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/01/2022, 14:30:04 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/01/2022, 14:30:04 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/01/2022, 14:30:04 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/01/2022, 14:30:05 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/01/2022, 14:30:06 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/01/2022, 14:30:06 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/01/2022, 14:30:06 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/01/2022, 14:30:06 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/01/2022, 14:30:06 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+12/01/2022, 14:30:06 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/01/2022, 14:30:07 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/01/2022, 14:30:08 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/01/2022, 14:30:09 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/01/2022, 14:30:10 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/01/2022, 14:30:10 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายผิด
+12/01/2022, 14:30:10 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายผิด
+12/01/2022, 14:30:10 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/01/2022, 14:30:10 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/01/2022, 14:30:10 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/01/2022, 14:30:11 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/01/2022, 14:30:11 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/01/2022, 14:30:11 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/01/2022, 14:30:11 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/01/2022, 14:30:11 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/01/2022, 14:30:11 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/01/2022, 18:52:40 | System Starting...
+12/01/2022, 19:23:39 | System Starting...
+12/02/2022, 04:17:15 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/02/2022, 04:17:16 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายถูก
+12/02/2022, 04:17:16 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/02/2022, 04:17:16 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/02/2022, 04:17:17 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/02/2022, 04:17:17 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/02/2022, 04:17:18 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/02/2022, 04:17:18 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/02/2022, 04:17:18 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/02/2022, 04:17:19 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายถูก
+12/02/2022, 04:17:19 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/02/2022, 04:17:20 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/02/2022, 04:17:20 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+12/02/2022, 04:17:20 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+12/02/2022, 04:17:21 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/02/2022, 04:17:21 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายถูก
+12/02/2022, 04:17:21 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/02/2022, 04:17:22 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายถูก
+12/02/2022, 04:17:22 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายถูก
+12/02/2022, 04:17:22 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/02/2022, 04:17:23 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายถูก
+12/02/2022, 04:17:23 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+12/02/2022, 04:17:23 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/02/2022, 04:17:24 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+12/02/2022, 04:17:24 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/02/2022, 04:17:24 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/02/2022, 04:17:24 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/02/2022, 04:17:25 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/02/2022, 04:17:25 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/02/2022, 04:17:25 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/02/2022, 04:17:26 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/02/2022, 04:17:26 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/02/2022, 04:17:26 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/02/2022, 04:17:27 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายถูก
+12/02/2022, 04:17:27 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/02/2022, 04:17:27 | ゜゜ use method add 1 point to <<@981480188217020456>> in ทายถูก
+12/02/2022, 04:17:28 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+12/02/2022, 04:17:28 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/02/2022, 04:17:28 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายถูก
+12/02/2022, 04:17:29 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/02/2022, 04:17:29 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/02/2022, 04:17:29 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/02/2022, 04:17:30 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายถูก
+12/02/2022, 04:17:30 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/02/2022, 04:17:30 | ゜゜ use method add 1 point to <<@946436465188032582>> in ทายถูก
+12/02/2022, 04:17:31 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายถูก
+12/02/2022, 04:17:31 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/02/2022, 04:46:43 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/02/2022, 04:46:43 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/02/2022, 04:46:43 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/02/2022, 04:46:44 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/02/2022, 04:46:44 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/02/2022, 04:46:44 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/02/2022, 04:46:44 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/02/2022, 04:46:45 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/02/2022, 04:46:45 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/02/2022, 04:46:45 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/02/2022, 04:46:46 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/02/2022, 04:46:46 | ゜゜ use method add 1 point to <<@946436465188032582>> in ทายผิด
+12/02/2022, 04:46:46 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/02/2022, 04:46:47 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/02/2022, 04:46:47 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/02/2022, 04:46:47 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายผิด
+12/02/2022, 04:46:48 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/02/2022, 04:46:48 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/02/2022, 04:46:48 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายผิด
+12/02/2022, 04:46:49 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/02/2022, 04:46:49 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/02/2022, 04:46:49 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/02/2022, 04:46:49 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/02/2022, 04:46:50 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/02/2022, 04:46:50 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/02/2022, 04:46:51 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/02/2022, 04:46:51 | ゜゜ use method add 1 point to <<@981480188217020456>> in ทายผิด
+12/02/2022, 04:46:51 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/02/2022, 04:46:51 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/02/2022, 04:46:52 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/02/2022, 04:46:52 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/02/2022, 04:46:52 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/02/2022, 04:46:53 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/02/2022, 04:46:53 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/02/2022, 04:46:53 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/02/2022, 04:46:54 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/02/2022, 04:46:54 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/02/2022, 04:46:54 | ゜゜ use method add 1 point to <<@981480188217020456>> in ทายผิด
+12/02/2022, 04:46:54 | ゜゜ use method add 1 point to <<@946436465188032582>> in ทายผิด
+12/02/2022, 04:46:55 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/02/2022, 04:46:55 | ゜゜ use method add 1 point to <<@325566667663081473>> in ทายผิด
+12/02/2022, 04:46:56 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/02/2022, 04:46:56 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/02/2022, 04:46:56 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/02/2022, 04:46:57 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/02/2022, 04:46:57 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/02/2022, 04:46:57 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/02/2022, 04:46:58 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/02/2022, 04:46:58 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/02/2022, 04:46:58 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/02/2022, 04:46:59 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/02/2022, 04:46:59 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/02/2022, 04:46:59 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/02/2022, 04:47:00 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/02/2022, 04:47:00 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+12/02/2022, 04:47:01 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/02/2022, 04:47:01 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+12/02/2022, 04:47:02 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/02/2022, 04:47:02 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/02/2022, 04:47:02 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/02/2022, 04:47:03 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/02/2022, 04:47:03 | ゜゜ use method add 1 point to <<@981480188217020456>> in ทายผิด
+12/02/2022, 04:47:03 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/02/2022, 04:47:04 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/02/2022, 04:47:05 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/02/2022, 04:47:05 | ゜゜ use method add 1 point to <<@946436465188032582>> in ทายผิด
+12/02/2022, 04:47:05 | ゜゜ use method add 1 point to <<@967330458394296320>> in ทายผิด
+12/02/2022, 04:47:06 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/02/2022, 04:47:06 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/02/2022, 04:47:06 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/02/2022, 04:47:07 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/02/2022, 04:47:07 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/02/2022, 04:47:07 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/02/2022, 04:47:08 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/02/2022, 04:47:08 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/02/2022, 04:47:08 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายผิด
+12/02/2022, 04:47:09 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/02/2022, 04:47:09 | ゜゜ use method add 1 point to <<@675724056808390667>> in ทายผิด
+12/02/2022, 04:47:09 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/02/2022, 04:47:10 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/02/2022, 04:47:10 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/02/2022, 04:47:10 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/02/2022, 04:47:11 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/02/2022, 04:47:11 | ゜゜ use method add 1 point to <<@315170297781157889>> in ทายผิด
+12/02/2022, 14:27:37 | System Starting...
+12/02/2022, 19:10:36 | System Starting...
+12/02/2022, 21:52:40 | System Starting...
+12/03/2022, 01:27:44 | System Starting...
+12/03/2022, 15:37:25 | System Starting...
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/03/2022, 15:37:33 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/03/2022, 15:37:34 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/03/2022, 15:37:34 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/03/2022, 15:37:34 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/03/2022, 15:37:34 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/03/2022, 15:37:34 | ゜゜ use method add 1 point to <<@380656318790500353>> in ทายถูก
+12/03/2022, 15:37:34 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/03/2022, 15:37:35 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/03/2022, 15:37:35 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/03/2022, 15:37:35 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/03/2022, 15:37:36 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/03/2022, 15:37:36 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/03/2022, 15:37:36 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/03/2022, 15:37:37 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/03/2022, 15:37:37 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+12/03/2022, 15:37:37 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+12/03/2022, 15:37:37 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/03/2022, 15:37:37 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/03/2022, 15:37:38 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายถูก
+12/03/2022, 15:37:38 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/03/2022, 15:37:38 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+12/03/2022, 15:37:39 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/03/2022, 15:37:39 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/03/2022, 15:37:39 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/03/2022, 15:37:39 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+12/03/2022, 15:37:40 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/03/2022, 15:37:40 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/03/2022, 15:37:40 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+12/03/2022, 15:37:41 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายถูก
+12/03/2022, 15:37:42 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/03/2022, 15:54:05 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/03/2022, 15:54:06 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/03/2022, 15:54:07 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/03/2022, 15:54:07 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายผิด
+12/03/2022, 15:54:07 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+12/03/2022, 15:54:07 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/03/2022, 15:54:07 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/03/2022, 15:54:08 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/03/2022, 15:54:09 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/03/2022, 15:54:09 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/03/2022, 15:54:09 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายผิด
+12/03/2022, 15:54:09 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/03/2022, 15:54:10 | ゜゜ use method add 1 point to <<@380656318790500353>> in ทายผิด
+12/03/2022, 15:54:10 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/03/2022, 15:54:10 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/03/2022, 15:54:10 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/03/2022, 15:54:10 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/03/2022, 15:54:10 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/03/2022, 15:54:11 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@380656318790500353>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/03/2022, 15:54:12 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/03/2022, 15:54:13 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/03/2022, 15:54:14 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายผิด
+12/03/2022, 15:54:15 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/03/2022, 15:54:15 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/03/2022, 15:54:15 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/03/2022, 15:54:15 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/03/2022, 15:54:15 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+12/03/2022, 15:54:16 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายผิด
+12/03/2022, 15:54:16 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/03/2022, 15:54:16 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/03/2022, 15:55:11 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายผิด
+12/03/2022, 15:55:11 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/03/2022, 15:55:11 | ゜゜ use method add 1 point to <<@380656318790500353>> in ทายผิด
+12/03/2022, 15:55:11 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/03/2022, 15:55:11 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายผิด
+12/03/2022, 15:55:11 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/03/2022, 15:55:12 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/03/2022, 15:55:12 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/03/2022, 15:55:12 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/03/2022, 15:55:12 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/03/2022, 15:55:12 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/03/2022, 15:55:12 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/03/2022, 23:23:05 | System Starting...
+12/04/2022, 01:53:12 | System Starting...
+12/04/2022, 04:33:19 | System Starting...
+12/04/2022, 05:50:06 | System Starting...
+12/04/2022, 05:52:22 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/04/2022, 05:52:22 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/04/2022, 05:52:23 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+12/04/2022, 05:52:23 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/04/2022, 05:52:23 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายถูก
+12/04/2022, 05:52:23 | ゜゜ use method add 1 point to <<@861647984718905374>> in ทายถูก
+12/04/2022, 05:52:24 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+12/04/2022, 05:52:24 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/04/2022, 05:52:25 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/04/2022, 05:52:25 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/04/2022, 05:52:25 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/04/2022, 05:52:26 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/04/2022, 05:52:26 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายถูก
+12/04/2022, 05:52:26 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/04/2022, 05:52:27 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/04/2022, 05:52:27 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/04/2022, 05:52:28 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/04/2022, 05:52:28 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/04/2022, 05:52:28 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/04/2022, 05:52:28 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/04/2022, 05:52:29 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/04/2022, 05:52:29 | ゜゜ use method add 1 point to <<@380656318790500353>> in ทายถูก
+12/04/2022, 05:52:30 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/04/2022, 05:52:30 | ゜゜ use method add 1 point to <<@861647984718905374>> in ทายถูก
+12/04/2022, 05:52:30 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/04/2022, 05:52:31 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/04/2022, 05:52:31 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/04/2022, 05:52:31 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/04/2022, 05:52:31 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/04/2022, 05:52:32 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/04/2022, 05:52:32 | ゜゜ use method add 1 point to <<@971052670704029761>> in ทายถูก
+12/04/2022, 05:52:32 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/04/2022, 05:52:33 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/04/2022, 05:52:33 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายถูก
+12/04/2022, 05:52:33 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/04/2022, 05:52:34 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/04/2022, 05:52:34 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/04/2022, 05:52:34 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+12/04/2022, 05:52:35 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/04/2022, 05:52:35 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/04/2022, 05:52:35 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/04/2022, 05:52:36 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/04/2022, 05:52:36 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/04/2022, 05:57:24 | ゜゜ use method add 1 point to <<@380656318790500353>> in ทายผิด
+12/04/2022, 05:57:25 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/04/2022, 05:57:25 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/04/2022, 05:57:25 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/04/2022, 05:57:26 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/04/2022, 05:57:26 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/04/2022, 05:57:26 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/04/2022, 05:57:27 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/04/2022, 05:57:27 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/04/2022, 05:57:27 | ゜゜ use method add 1 point to <<@389311073817460748>> in ทายผิด
+12/04/2022, 05:57:28 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/04/2022, 05:57:28 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/04/2022, 05:57:28 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/04/2022, 05:57:29 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/04/2022, 05:57:29 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/04/2022, 05:57:29 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/04/2022, 05:57:29 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/04/2022, 13:28:18 | System Starting...
+12/04/2022, 18:17:55 | System Starting...
+12/04/2022, 22:11:37 | System Starting...
+12/05/2022, 08:43:56 | System Starting...
+12/05/2022, 08:59:00 | System Starting...
+12/05/2022, 14:21:41 | ゜゜ use method add 1 point to <<@861647984718905374>> in ทายถูก
+12/05/2022, 14:21:41 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายถูก
+12/05/2022, 14:21:42 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/05/2022, 14:21:43 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/05/2022, 14:21:43 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/05/2022, 14:21:43 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/05/2022, 14:21:44 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/05/2022, 14:21:44 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายถูก
+12/05/2022, 14:21:44 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/05/2022, 14:21:45 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/05/2022, 14:21:45 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/05/2022, 14:21:45 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/05/2022, 14:21:46 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/05/2022, 14:21:46 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/05/2022, 14:21:46 | ゜゜ use method add 1 point to <<@596991555424878595>> in ทายถูก
+12/05/2022, 14:21:47 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/05/2022, 14:21:47 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+12/05/2022, 14:21:48 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/05/2022, 14:21:48 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/05/2022, 14:21:48 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/05/2022, 14:21:49 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายถูก
+12/05/2022, 14:21:49 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/05/2022, 14:21:49 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/05/2022, 14:21:50 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/05/2022, 14:21:50 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/05/2022, 14:21:51 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/05/2022, 14:21:51 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/05/2022, 14:21:51 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/05/2022, 14:21:52 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/05/2022, 14:21:52 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายถูก
+12/05/2022, 14:21:53 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/05/2022, 14:21:53 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/05/2022, 14:21:54 | ゜゜ use method add 1 point to <<@596991555424878595>> in ทายถูก
+12/05/2022, 14:21:54 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายถูก
+12/05/2022, 14:21:55 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+12/05/2022, 14:21:55 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/05/2022, 14:21:55 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/05/2022, 14:21:56 | ゜゜ use method add 1 point to <<@861647984718905374>> in ทายถูก
+12/05/2022, 14:21:56 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/05/2022, 14:21:57 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/05/2022, 14:21:57 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายถูก
+12/05/2022, 14:21:57 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/05/2022, 14:21:58 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/05/2022, 14:21:58 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายถูก
+12/05/2022, 14:21:58 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/05/2022, 14:24:18 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/05/2022, 14:24:19 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/05/2022, 14:24:19 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายผิด
+12/05/2022, 14:24:19 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/05/2022, 14:24:20 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/05/2022, 14:24:20 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/05/2022, 14:24:21 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/05/2022, 14:24:21 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/05/2022, 14:24:22 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/05/2022, 14:24:22 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/05/2022, 14:24:22 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/05/2022, 14:24:23 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/05/2022, 14:24:23 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/05/2022, 14:24:24 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายผิด
+12/05/2022, 14:24:24 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/05/2022, 17:48:00 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/05/2022, 17:48:00 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/05/2022, 17:48:01 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/05/2022, 17:48:02 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+12/05/2022, 17:48:02 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/05/2022, 17:48:02 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/05/2022, 17:48:03 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/05/2022, 17:48:03 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายถูก
+12/05/2022, 17:48:03 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/05/2022, 17:48:04 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/05/2022, 17:52:13 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายผิด
+12/05/2022, 23:38:59 | System Starting...
+12/06/2022, 01:43:50 | System Starting...
+12/06/2022, 02:09:36 | System Starting...
+12/06/2022, 03:04:07 | System Starting...
+12/06/2022, 04:51:57 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/06/2022, 04:51:57 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/06/2022, 04:51:58 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/06/2022, 04:51:58 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/06/2022, 04:51:58 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/06/2022, 04:51:59 | ゜゜ use method add 1 point to <<@596991555424878595>> in ทายถูก
+12/06/2022, 04:51:59 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/06/2022, 04:51:59 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายถูก
+12/06/2022, 04:52:00 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/06/2022, 04:52:00 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/06/2022, 04:52:00 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายถูก
+12/06/2022, 04:52:00 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/06/2022, 04:52:01 | ゜゜ use method add 1 point to <<@970231165686546432>> in ทายถูก
+12/06/2022, 04:52:02 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายถูก
+12/06/2022, 04:52:02 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/06/2022, 04:52:03 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/06/2022, 04:52:03 | ゜゜ use method add 1 point to <<@862074881914437653>> in ทายถูก
+12/06/2022, 04:52:04 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/06/2022, 04:52:05 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายถูก
+12/06/2022, 04:52:05 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/06/2022, 04:52:05 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/06/2022, 04:52:05 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/06/2022, 04:52:06 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/06/2022, 04:52:44 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/06/2022, 04:52:44 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/06/2022, 04:52:44 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายผิด
+12/06/2022, 04:52:44 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/06/2022, 04:52:44 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/06/2022, 04:52:45 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/06/2022, 23:48:15 | System Starting...
+12/07/2022, 03:38:07 | System Starting...
+12/07/2022, 03:47:40 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายถูก
+12/07/2022, 03:47:40 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายถูก
+12/07/2022, 03:47:41 | ゜゜ use method add 1 point to <<@876318462476177408>> in ทายถูก
+12/07/2022, 03:47:41 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/07/2022, 03:47:41 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/07/2022, 03:47:42 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายถูก
+12/07/2022, 03:47:42 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายถูก
+12/07/2022, 03:47:42 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/07/2022, 03:47:43 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายถูก
+12/07/2022, 03:47:43 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายถูก
+12/07/2022, 03:47:43 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายถูก
+12/07/2022, 03:47:44 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายถูก
+12/07/2022, 03:47:44 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายถูก
+12/07/2022, 03:47:44 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายถูก
+12/07/2022, 03:47:44 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายถูก
+12/07/2022, 03:47:45 | ゜゜ use method add 1 point to <<@933348015610159165>> in ทายถูก
+12/07/2022, 03:47:45 | ゜゜ use method add 1 point to <<@513687151498493963>> in ทายถูก
+12/07/2022, 03:47:45 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายถูก
+12/07/2022, 03:47:46 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายถูก
+12/07/2022, 03:47:46 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายถูก
+12/07/2022, 03:47:46 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายถูก
+12/07/2022, 03:47:46 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายถูก
+12/07/2022, 03:47:47 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายถูก
+12/07/2022, 03:47:47 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายถูก
+12/07/2022, 03:47:47 | ゜゜ use method add 1 point to <<@841867220593410078>> in ทายถูก
+12/07/2022, 03:47:47 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายถูก
+12/07/2022, 03:47:48 | ゜゜ use method add 1 point to <<@596991555424878595>> in ทายถูก
+12/07/2022, 03:47:48 | ゜゜ use method add 1 point to <<@488446801922228224>> in ทายถูก
+12/07/2022, 03:47:48 | ゜゜ use method add 1 point to <<@927530246771732481>> in ทายถูก
+12/07/2022, 03:47:49 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายถูก
+12/07/2022, 03:47:49 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายถูก
+12/07/2022, 03:47:49 | ゜゜ use method add 1 point to <<@849276765569941544>> in ทายถูก
+12/07/2022, 03:47:49 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายถูก
+12/07/2022, 03:54:59 | ゜゜ use method add 1 point to <<@841926370275098634>> in ทายผิด
+12/07/2022, 03:55:00 | ゜゜ use method add 1 point to <<@596991555424878595>> in ทายผิด
+12/07/2022, 03:55:00 | ゜゜ use method add 1 point to <<@337936654306377728>> in ทายผิด
+12/07/2022, 03:55:00 | ゜゜ use method add 1 point to <<@505771898433699851>> in ทายผิด
+12/07/2022, 03:55:01 | ゜゜ use method add 1 point to <<@940207610886512660>> in ทายผิด
+12/07/2022, 03:55:01 | ゜゜ use method add 1 point to <<@781366057495560193>> in ทายผิด
+12/07/2022, 03:55:01 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/07/2022, 03:55:01 | ゜゜ use method add 1 point to <<@970659048783491112>> in ทายผิด
+12/07/2022, 03:55:02 | ゜゜ use method add 1 point to <<@513698483694338049>> in ทายผิด
+12/07/2022, 03:55:02 | ゜゜ use method add 1 point to <<@745964582279053463>> in ทายผิด
+12/07/2022, 03:55:02 | ゜゜ use method add 1 point to <<@964513238735802379>> in ทายผิด
+12/07/2022, 03:55:03 | ゜゜ use method add 1 point to <<@692037092137762906>> in ทายผิด
+12/07/2022, 03:55:03 | ゜゜ use method add 1 point to <<@843467949750091807>> in ทายผิด
+12/07/2022, 03:55:03 | ゜゜ use method add 1 point to <<@862074881914437653>> in ทายผิด
+12/07/2022, 03:55:03 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/07/2022, 03:55:04 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/07/2022, 03:55:04 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายผิด
+12/07/2022, 03:55:04 | ゜゜ use method add 1 point to <<@840513888763248641>> in ทายผิด
+12/07/2022, 03:55:05 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/07/2022, 03:55:05 | ゜゜ use method add 1 point to <<@941337520258580540>> in ทายผิด
+12/07/2022, 03:55:05 | ゜゜ use method add 1 point to <<@868554451378651176>> in ทายผิด
+12/07/2022, 03:55:05 | ゜゜ use method add 1 point to <<@433601402703577100>> in ทายผิด
+12/07/2022, 03:55:06 | ゜゜ use method add 1 point to <<@680983065677529124>> in ทายผิด
+12/07/2022, 03:55:06 | ゜゜ use method add 1 point to <<@876318462476177408>> in ทายผิด
+12/07/2022, 03:55:06 | ゜゜ use method add 1 point to <<@623533217424736269>> in ทายผิด
+12/07/2022, 03:55:06 | ゜゜ use method add 1 point to <<@794945364641579038>> in ทายผิด
+12/07/2022, 03:55:07 | ゜゜ use method add 1 point to <<@965607840096092262>> in ทายผิด
+12/07/2022, 03:55:07 | ゜゜ use method add 1 point to <<@341607489294434315>> in ทายผิด
+12/07/2022, 03:55:07 | ゜゜ use method add 1 point to <<@498370724889624597>> in ทายผิด
+12/07/2022, 03:55:07 | ゜゜ use method add 1 point to <<@378183963560247298>> in ทายผิด
+12/07/2022, 03:55:08 | ゜゜ use method add 1 point to <<@952814969097957377>> in ทายผิด
+12/07/2022, 03:55:08 | ゜゜ use method add 1 point to <<@772022434688925696>> in ทายผิด
+12/07/2022, 03:55:08 | ゜゜ use method add 1 point to <<@977750857963692062>> in ทายผิด
+12/07/2022, 03:55:09 | ゜゜ use method add 1 point to <<@627139164537749505>> in ทายผิด
+12/07/2022, 03:55:09 | ゜゜ use method add 1 point to <<@358984660342145025>> in ทายผิด
+12/07/2022, 03:58:27 | System Starting...
+12/07/2022, 04:47:58 | System Starting...
+12/08/2022, 02:50:24 | System Starting...
