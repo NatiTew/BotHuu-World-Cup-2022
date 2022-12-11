@@ -1280,3 +1280,168 @@
 12/09/2022, 04:47:51 | ゜゜ use method cut 3 point from <<@358984660342145025>> in correct
 12/09/2022, 04:49:24 | System Starting...
 12/09/2022, 04:49:33 | ゜゜ use method cut 3 point from <<@358984660342145025>> in correct, Now have 1
+12/09/2022, 05:11:31 | ゜゜ use method add test to list, Add to list
+12/09/2022, 05:11:39 | ゜゜ use method list
+12/09/2022, 05:12:42 | ゜゜ use method delist for Delete test out of list
+12/09/2022, 05:16:33 | ゜゜ use method list
+12/09/2022, 05:19:32 | System Starting...
+12/09/2022, 05:20:14 | System Starting...
+12/09/2022, 05:21:15 | System Starting...
+12/09/2022, 05:22:13 | System Starting...
+12/09/2022, 05:22:59 | System Starting...
+12/09/2022, 05:26:11 | System Starting...
+12/09/2022, 05:26:54 | System Starting...
+12/09/2022, 05:27:39 | System Starting...
+12/09/2022, 05:28:56 | ゜゜ use method add 23 point to <<@358984660342145025>> in correct, Now have 24
+12/09/2022, 05:29:50 | System Starting...
+12/09/2022, 05:38:38 | System Starting...
+12/09/2022, 05:39:39 | System Starting...
+12/09/2022, 05:47:42 | System Starting...
+12/09/2022, 05:53:34 | ゜゜ use method cut 1 point from <<@159985870458322944>> in correct, Now have 0
+12/09/2022, 07:15:33 | System Starting...
+12/09/2022, 08:43:45 | System Starting...
+12/09/2022, 23:38:39 | System Starting...
+12/10/2022, 04:02:10 | System Starting...
+12/10/2022, 06:26:00 | System Starting...
+12/10/2022, 13:35:21 | ゜゜ use method add 1 point to <<@772022434688925696>> in correct
+12/10/2022, 13:35:22 | ゜゜ use method add 1 point to <<@498370724889624597>> in correct
+12/10/2022, 13:35:22 | ゜゜ use method add 1 point to <<@794945364641579038>> in correct
+12/10/2022, 13:35:23 | ゜゜ use method add 1 point to <<@964513238735802379>> in correct
+12/10/2022, 13:35:23 | ゜゜ use method add 1 point to <<@433601402703577100>> in correct
+12/10/2022, 13:35:23 | ゜゜ use method add 1 point to <<@680983065677529124>> in correct
+12/10/2022, 13:35:23 | ゜゜ use method add 1 point to <<@389311073817460748>> in correct
+12/10/2022, 13:35:23 | ゜゜ use method add 1 point to <<@933348015610159165>> in correct
+12/10/2022, 13:35:24 | ゜゜ use method add 1 point to <<@977750857963692062>> in correct
+12/10/2022, 13:35:24 | ゜゜ use method add 1 point to <<@692037092137762906>> in correct
+12/10/2022, 13:35:24 | ゜゜ use method add 1 point to <<@840513888763248641>> in correct
+12/10/2022, 13:35:24 | ゜゜ use method add 1 point to <<@843467949750091807>> in correct
+12/10/2022, 13:35:24 | ゜゜ use method add 1 point to <<@505771898433699851>> in correct
+12/10/2022, 13:35:25 | ゜゜ use method add 1 point to <<@596991555424878595>> in correct
+12/10/2022, 13:35:25 | ゜゜ use method add 1 point to <<@861647984718905374>> in correct
+12/10/2022, 13:35:25 | ゜゜ use method add 1 point to <<@745964582279053463>> in correct
+12/10/2022, 13:35:25 | ゜゜ use method add 1 point to <<@933348015610159165>> in correct
+12/10/2022, 13:35:25 | ゜゜ use method add 1 point to <<@967330458394296320>> in correct
+12/10/2022, 13:35:25 | ゜゜ use method add 1 point to <<@513698483694338049>> in correct
+12/10/2022, 13:35:26 | ゜゜ use method add 1 point to <<@841926370275098634>> in correct
+12/10/2022, 13:35:26 | ゜゜ use method add 1 point to <<@680983065677529124>> in correct
+12/10/2022, 13:35:26 | ゜゜ use method add 1 point to <<@378183963560247298>> in correct
+12/10/2022, 13:35:26 | ゜゜ use method add 1 point to <<@337936654306377728>> in correct
+12/10/2022, 13:35:26 | ゜゜ use method add 1 point to <<@868554451378651176>> in correct
+12/10/2022, 13:35:26 | ゜゜ use method add 1 point to <<@970659048783491112>> in correct
+12/10/2022, 13:35:27 | ゜゜ use method add 1 point to <<@941337520258580540>> in correct
+12/10/2022, 13:35:27 | ゜゜ use method add 1 point to <<@970231165686546432>> in correct
+12/10/2022, 13:35:27 | ゜゜ use method add 1 point to <<@964513238735802379>> in correct
+12/10/2022, 13:35:27 | ゜゜ use method add 1 point to <<@358984660342145025>> in correct
+12/10/2022, 13:35:27 | ゜゜ use method add 1 point to <<@772022434688925696>> in correct
+12/10/2022, 13:35:27 | ゜゜ use method add 1 point to <<@971052670704029761>> in correct
+12/10/2022, 13:35:28 | ゜゜ use method add 1 point to <<@623533217424736269>> in correct
+12/10/2022, 13:35:28 | ゜゜ use method add 1 point to <<@781366057495560193>> in correct
+12/10/2022, 13:46:50 | ゜゜ use method add 1 point to <<@389311073817460748>> in wrong
+12/10/2022, 13:46:50 | ゜゜ use method add 1 point to <<@433601402703577100>> in wrong
+12/10/2022, 13:46:51 | ゜゜ use method add 1 point to <<@794945364641579038>> in wrong
+12/10/2022, 13:46:51 | ゜゜ use method add 1 point to <<@488446801922228224>> in wrong
+12/10/2022, 13:46:51 | ゜゜ use method add 1 point to <<@862074881914437653>> in wrong
+12/10/2022, 13:46:52 | ゜゜ use method add 1 point to <<@977750857963692062>> in wrong
+12/10/2022, 13:46:53 | ゜゜ use method add 1 point to <<@498370724889624597>> in wrong
+12/10/2022, 13:46:53 | ゜゜ use method add 1 point to <<@513687151498493963>> in wrong
+12/10/2022, 13:46:53 | ゜゜ use method add 1 point to <<@841867220593410078>> in wrong
+12/10/2022, 13:46:54 | ゜゜ use method add 1 point to <<@341607489294434315>> in wrong
+12/10/2022, 13:46:54 | ゜゜ use method add 1 point to <<@692037092137762906>> in wrong
+12/10/2022, 13:46:55 | ゜゜ use method add 1 point to <<@840513888763248641>> in wrong
+12/10/2022, 13:46:55 | ゜゜ use method add 1 point to <<@843467949750091807>> in wrong
+12/10/2022, 13:46:55 | ゜゜ use method add 1 point to <<@745964582279053463>> in wrong
+12/10/2022, 13:46:55 | ゜゜ use method add 1 point to <<@862074881914437653>> in wrong
+12/10/2022, 13:46:56 | ゜゜ use method add 1 point to <<@861647984718905374>> in wrong
+12/10/2022, 13:46:56 | ゜゜ use method add 1 point to <<@341607489294434315>> in wrong
+12/10/2022, 13:46:56 | ゜゜ use method add 1 point to <<@596991555424878595>> in wrong
+12/10/2022, 13:46:57 | ゜゜ use method add 1 point to <<@513687151498493963>> in wrong
+12/10/2022, 13:46:57 | ゜゜ use method add 1 point to <<@513698483694338049>> in wrong
+12/10/2022, 13:46:57 | ゜゜ use method add 1 point to <<@841926370275098634>> in wrong
+12/10/2022, 13:46:58 | ゜゜ use method add 1 point to <<@868554451378651176>> in wrong
+12/10/2022, 13:46:58 | ゜゜ use method add 1 point to <<@378183963560247298>> in wrong
+12/10/2022, 13:46:58 | ゜゜ use method add 1 point to <<@337936654306377728>> in wrong
+12/10/2022, 13:46:59 | ゜゜ use method add 1 point to <<@970231165686546432>> in wrong
+12/10/2022, 13:47:00 | ゜゜ use method add 1 point to <<@971052670704029761>> in wrong
+12/10/2022, 13:47:00 | ゜゜ use method add 1 point to <<@941337520258580540>> in wrong
+12/10/2022, 13:47:01 | ゜゜ use method add 1 point to <<@781366057495560193>> in wrong
+12/10/2022, 13:47:02 | ゜゜ use method add 1 point to <<@488446801922228224>> in wrong
+12/10/2022, 13:47:02 | ゜゜ use method add 1 point to <<@623533217424736269>> in wrong
+12/10/2022, 13:47:03 | ゜゜ use method add 1 point to <<@841867220593410078>> in wrong
+12/10/2022, 13:47:03 | ゜゜ use method add 1 point to <<@970659048783491112>> in wrong
+12/10/2022, 13:47:04 | ゜゜ use method add 1 point to <<@358984660342145025>> in wrong
+12/10/2022, 13:51:46 | System Starting...
+12/10/2022, 14:52:46 | System Starting...
+12/10/2022, 14:55:52 | System Starting...
+12/10/2022, 14:56:53 | System Starting...
+12/10/2022, 15:00:27 | System Starting...
+12/10/2022, 15:01:47 | System Starting...
+12/10/2022, 15:04:25 | System Starting...
+12/10/2022, 15:05:10 | System Starting...
+12/10/2022, 15:08:10 | System Starting...
+12/10/2022, 15:08:45 | System Starting...
+12/10/2022, 15:20:42 | System Starting...
+12/11/2022, 05:20:03 | ゜゜ use method add 1 point to <<@772022434688925696>> in correct
+12/11/2022, 05:20:03 | ゜゜ use method add 1 point to <<@498370724889624597>> in correct
+12/11/2022, 05:20:03 | ゜゜ use method add 1 point to <<@794945364641579038>> in correct
+12/11/2022, 05:20:03 | ゜゜ use method add 1 point to <<@433601402703577100>> in correct
+12/11/2022, 05:20:04 | ゜゜ use method add 1 point to <<@933348015610159165>> in correct
+12/11/2022, 05:20:04 | ゜゜ use method add 1 point to <<@977750857963692062>> in correct
+12/11/2022, 05:20:04 | ゜゜ use method add 1 point to <<@378183963560247298>> in correct
+12/11/2022, 05:20:04 | ゜゜ use method add 1 point to <<@488446801922228224>> in correct
+12/11/2022, 05:20:04 | ゜゜ use method add 1 point to <<@843467949750091807>> in correct
+12/11/2022, 05:20:05 | ゜゜ use method add 1 point to <<@933348015610159165>> in correct
+12/11/2022, 05:20:05 | ゜゜ use method add 1 point to <<@794945364641579038>> in correct
+12/11/2022, 05:20:05 | ゜゜ use method add 1 point to <<@941337520258580540>> in correct
+12/11/2022, 05:20:05 | ゜゜ use method add 1 point to <<@488446801922228224>> in correct
+12/11/2022, 05:20:06 | ゜゜ use method add 1 point to <<@964513238735802379>> in correct
+12/11/2022, 05:20:06 | ゜゜ use method add 1 point to <<@378183963560247298>> in correct
+12/11/2022, 05:20:07 | ゜゜ use method add 1 point to <<@781366057495560193>> in correct
+12/11/2022, 05:20:07 | ゜゜ use method add 1 point to <<@861647984718905374>> in correct
+12/11/2022, 05:20:07 | ゜゜ use method add 1 point to <<@841926370275098634>> in correct
+12/11/2022, 05:20:07 | ゜゜ use method add 1 point to <<@971052670704029761>> in correct
+12/11/2022, 05:20:07 | ゜゜ use method add 1 point to <<@841867220593410078>> in correct
+12/11/2022, 05:20:07 | ゜゜ use method add 1 point to <<@745964582279053463>> in correct
+12/11/2022, 05:20:08 | ゜゜ use method add 1 point to <<@680983065677529124>> in correct
+12/11/2022, 05:20:08 | ゜゜ use method add 1 point to <<@358984660342145025>> in correct
+12/11/2022, 05:20:08 | ゜゜ use method add 1 point to <<@596991555424878595>> in correct
+12/11/2022, 05:20:08 | ゜゜ use method add 1 point to <<@862074881914437653>> in correct
+12/11/2022, 05:27:37 | ゜゜ use method add 1 point to <<@358984660342145025>> in wrong
+12/11/2022, 05:27:37 | ゜゜ use method add 1 point to <<@862074881914437653>> in wrong
+12/11/2022, 05:27:37 | ゜゜ use method add 1 point to <<@680983065677529124>> in wrong
+12/11/2022, 05:27:37 | ゜゜ use method add 1 point to <<@843467949750091807>> in wrong
+12/11/2022, 05:27:37 | ゜゜ use method add 1 point to <<@341607489294434315>> in wrong
+12/11/2022, 05:27:38 | ゜゜ use method add 1 point to <<@596991555424878595>> in wrong
+12/11/2022, 05:27:38 | ゜゜ use method add 1 point to <<@692037092137762906>> in wrong
+12/11/2022, 05:27:38 | ゜゜ use method add 1 point to <<@831396276347863061>> in wrong
+12/11/2022, 05:27:38 | ゜゜ use method add 1 point to <<@872515705571004446>> in wrong
+12/11/2022, 05:27:38 | ゜゜ use method add 1 point to <<@941337520258580540>> in wrong
+12/11/2022, 05:27:39 | ゜゜ use method add 1 point to <<@781366057495560193>> in wrong
+12/11/2022, 05:27:39 | ゜゜ use method add 1 point to <<@840513888763248641>> in wrong
+12/11/2022, 05:27:39 | ゜゜ use method add 1 point to <<@505771898433699851>> in wrong
+12/11/2022, 05:27:39 | ゜゜ use method add 1 point to <<@970659048783491112>> in wrong
+12/11/2022, 05:27:40 | ゜゜ use method add 1 point to <<@964513238735802379>> in wrong
+12/11/2022, 05:27:40 | ゜゜ use method add 1 point to <<@841926370275098634>> in wrong
+12/11/2022, 05:27:40 | ゜゜ use method add 1 point to <<@389311073817460748>> in wrong
+12/11/2022, 05:27:40 | ゜゜ use method add 1 point to <<@861647984718905374>> in wrong
+12/11/2022, 05:27:40 | ゜゜ use method add 1 point to <<@623533217424736269>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@513687151498493963>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@841867220593410078>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@745964582279053463>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@971052670704029761>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@868554451378651176>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@692037092137762906>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@341607489294434315>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@872515705571004446>> in wrong
+12/11/2022, 05:27:41 | ゜゜ use method add 1 point to <<@433601402703577100>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@831396276347863061>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@977750857963692062>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@505771898433699851>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@970659048783491112>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@840513888763248641>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@498370724889624597>> in wrong
+12/11/2022, 05:27:42 | ゜゜ use method add 1 point to <<@389311073817460748>> in wrong
+12/11/2022, 05:27:43 | ゜゜ use method add 1 point to <<@772022434688925696>> in wrong
+12/11/2022, 05:27:43 | ゜゜ use method add 1 point to <<@623533217424736269>> in wrong
+12/11/2022, 05:27:43 | ゜゜ use method add 1 point to <<@513687151498493963>> in wrong
+12/11/2022, 05:27:43 | ゜゜ use method add 1 point to <<@868554451378651176>> in wrong
+12/11/2022, 05:36:29 | System Starting...

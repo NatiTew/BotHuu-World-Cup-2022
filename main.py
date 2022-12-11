@@ -275,52 +275,6 @@ async def wc(ctx, choice: int, *args):
       # await ctx.channel.send('{} เพิ่มผล{} จำนวน {}คู่, ตอนนี้คุณ{} จำนวน {}คู่'.format(username, list[choice-1], str(point), list[choice-1], str(sum)))
     await ctx.channel.send('อัพเดตผล'+list[choice-1]+'เรียบร้อยแล้ว')
 
-def addR8(choice: int, id:str, answer: str):
-  list = db["list"]
-  tmp = False
-  tmpid = list[choice-1] + '_id'
-  # tmpname = list[choice-1] + '_name'
-  tmppoint = list[choice-1] + '_point'
-  dataID = db[tmpid]
-  # dataName = db[tmpname]
-  dataPoint = db[tmppoint]
-  # print(dataID)
-  # print(dataName)
-  # print(dataPoint)
-  
-  sum = 0
-  index = -999
-  if id in dataID:
-    index = dataID.index(id)
-    p = dataPoint[index]
-    sum = (p + point)
-    tmp = True
-  # print(tmp)  
-    
-  if tmp == True:
-    # dataName[index] = name
-    dataPoint[index] = sum
-    # print(dataID)
-    # print(dataName)
-    # print(dataPoint)
-    db[tmpid] = dataID
-    # db[tmpname] = dataName
-    db[tmppoint] = dataPoint
-  else:
-    dataID.append(id)
-    # dataName.append(name)
-    dataPoint.append(point)
-    sum = point
-    # print(dataID)
-    # print(dataName)
-    # print(dataPoint)
-    db[tmpid] = dataID
-    # db[tmpname] = dataName
-    db[tmppoint] = dataPoint
-
-  return sum
-
-
 @client.command()
 @has_permissions(administrator = True)
 async def add(ctx, choice: int, player: discord.Member, point: int):
@@ -373,20 +327,16 @@ async def show(ctx):
   id = '<@' + str(ctx.author.id) + '>'
   embed = discord.Embed(title=f"{'----------<Board>----------'}", description=('คะแนนของ ' + user_id),color=discord.Color.red())
   list = db["list"]
+  
   for arr in list:
-    tmpid = arr + '_id'
-    tmppoint = arr + '_point'
+    connection = sqlite3.connect("myDatabase.db")
+    cursor = connection.cursor()
+    result  = cursor.execute("SELECT * from {} WHERE disID = '{}' ".format(arr, id)).fetchall();
+    check = len(result)
     
-    dataID = db[tmpid]
-    # print(str(ctx))
-    # print(dataID)
-    dataPoint = db[tmppoint]
-
-    index = 0
-    
-    if id in dataID:
-      index = dataID.index(id)
-      embed.add_field(name=arr, value=f"{str(dataPoint[index])}")
+    if check > 0:
+      score = result[0][1]
+      embed.add_field(name=arr, value=f"{str(score)}")
     else:
       embed.add_field(name=arr, value=f"{'0'}")
   await ctx.send(embed=embed)
@@ -397,47 +347,88 @@ async def s(ctx, player: discord.Member):
   id = '<@' + str(player.id) + '>'
   embed = discord.Embed(title=f"{'----------<Board>----------'}", description=('คะแนนของ ' + user_id),color=discord.Color.red())
   list = db["list"]
+  
   for arr in list:
-    tmpid = arr + '_id'
-    tmppoint = arr + '_point'
+    connection = sqlite3.connect("myDatabase.db")
+    cursor = connection.cursor()
+    result  = cursor.execute("SELECT * from {} WHERE disID = '{}' ".format(arr, id)).fetchall();
+    check = len(result)
     
-    dataID = db[tmpid]
-    dataPoint = db[tmppoint]
-
-    index = 0
-    
-    if id in dataID:
-      index = dataID.index(id)
-      embed.add_field(name=arr, value=f"{str(dataPoint[index])}")
+    if check > 0:
+      score = result[0][1]
+      embed.add_field(name=arr, value=f"{str(score)}")
     else:
       embed.add_field(name=arr, value=f"{'0'}")
   await ctx.send(embed=embed)
 
 @client.command()
 async def board(ctx, input:int):
+  # list = db["list"]
+  # connection = sqlite3.connect("myDatabase.db")
+  # cursor = connection.cursor()
+  # result  = cursor.execute("SELECT * from {} ORDER BY Score DESC ".format(list[input-1])).fetchall();
+
+  # await ctx.channel.send('น้องบอทขอประมวลผลแปปนึง...')
+  # text = '```          Point of {}\n'.format(list[input-1])
+
+  # for arr in result:
+  #   text += 'คุณ{} มี {} แต้ม \n'.format(arr[0], arr[1])
+  # text += '```'
+  # await ctx.send(text)
+  
   list = db["list"]
-  i = 0
-  tmp = ''
-  for arr in list:
-    if i == (input-1):
-      tmp = arr
-      # print(tmp)
-      break
-    i += 1
+  connection = sqlite3.connect("myDatabase.db")
+  cursor = connection.cursor()
+  result  = cursor.execute("SELECT * from {} ORDER BY Score DESC ".format(list[input-1])).fetchall();
 
-  if tmp == '':
-    await ctx.send('Number of list is wrong')
-  else:
-    await ctx.send('Found it')
-    id = db[tmp + "_id"]
-    point = db[tmp + "_point"]
+  await ctx.channel.send('น้องบอทขอประมวลผลแปปนึง...')
+  text = '```          Point of {}```\n'.format(list[input-1])
 
-    text = '```          Point of {}\n'.format(tmp)
-    for arr in range(len(id)):
-      text += 'คุณ{} มี {} แต้ม \n'.format(id[arr], point[arr])
-    text += '```'
-    await ctx.send(text)
+  count = 0
+  page = 1
+  for arr in result:
+    if (count%20) == 0:
+      embed = discord.Embed(title=f"{'----------< Board of ' + list[input-1] +', Page'+str(page) +' >----------'}", description=('หน้าแสดงคะแนนทายผลบอลโลกในส่วนของ ทาย' + list[input-1]),color=discord.Color.red())
     
+    embed.add_field(name=str(arr[1]), value=f"{str(arr[0])}")
+    
+    if (count%20) == 19:
+      await ctx.send(embed=embed)
+      page += 1
+    count += 1
+    
+  if (count%20) != 19:
+    await ctx.send(embed=embed)
+
+# @client.command()
+# @has_permissions(administrator = True)
+# async def b(ctx, input:int):
+#   list = db["list"]
+#   connection = sqlite3.connect("myDatabase.db")
+#   cursor = connection.cursor()
+#   result  = cursor.execute("SELECT * from {} ORDER BY Score DESC ".format(list[input-1])).fetchall();
+
+#   await ctx.channel.send('น้องบอทขอประมวลผลแปปนึง...')
+#   text = '```          Point of {}```\n'.format(list[input-1])
+
+#   count = 0
+#   page = 1
+#   for arr in result:
+#     if (count%20) == 0:
+#       embed = discord.Embed(title=f"{'----------< Board of ' + list[input-1] +', Page'+str(page) +' >----------'}", description=('หน้าแสดงคะแนนทายผลบอลโลกในส่วนของ ทาย' + list[input-1]),color=discord.Color.red())
+    
+#     embed.add_field(name=str(arr[1]), value=f"{str(arr[0])}")
+    
+#     if (count%20) == 19:
+#       await ctx.send(embed=embed)
+#       page += 1
+#     count += 1
+    
+#   if (count%20) != 19:
+#     await ctx.send(embed=embed)
+
+       
+  
 # @client.command()
 # @has_permissions(administrator = True)
 # async def shutdown(ctx):
